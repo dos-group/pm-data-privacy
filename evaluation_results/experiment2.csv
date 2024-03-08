@@ -1,0 +1,2201 @@
+Model,Job,Mode,NumOriginalSamples,NumSyntheticSamples,MAPE
+ErnestModel,Sort,Original,3,0,0.07315948458623965
+GradientBoosting,Sort,Original,3,0,0.23051154764416726
+ErnestModel,Sort,Synthetic,3,1000,0.07021758950961762
+GradientBoosting,Sort,Synthetic,3,1000,0.21179622377760898
+ErnestModel,Sort,Original,6,0,0.07005003659696545
+GradientBoosting,Sort,Original,6,0,0.26424594601352297
+ErnestModel,Sort,Synthetic,6,1000,0.06876142476322213
+GradientBoosting,Sort,Synthetic,6,1000,0.27017742640629827
+ErnestModel,Sort,Original,9,0,0.05507119947891151
+GradientBoosting,Sort,Original,9,0,0.12440609358445212
+ErnestModel,Sort,Synthetic,9,1000,0.06261093110424595
+GradientBoosting,Sort,Synthetic,9,1000,0.1263490152658113
+ErnestModel,Sort,Original,12,0,0.05557985109764527
+GradientBoosting,Sort,Original,12,0,0.08491060722908267
+ErnestModel,Sort,Synthetic,12,1000,0.05648923356454368
+GradientBoosting,Sort,Synthetic,12,1000,0.11479395858000234
+ErnestModel,Sort,Original,15,0,0.07836669108126817
+GradientBoosting,Sort,Original,15,0,0.13685262346726473
+ErnestModel,Sort,Synthetic,15,1000,0.0830375899717269
+GradientBoosting,Sort,Synthetic,15,1000,0.1475999401638136
+ErnestModel,Sort,Original,18,0,0.0726245096078415
+GradientBoosting,Sort,Original,18,0,0.0859561697543275
+ErnestModel,Sort,Synthetic,18,1000,0.08623942276314583
+GradientBoosting,Sort,Synthetic,18,1000,0.12530532950238765
+ErnestModel,Sort,Original,21,0,0.04095140528584947
+GradientBoosting,Sort,Original,21,0,0.08934252899007657
+ErnestModel,Sort,Synthetic,21,1000,0.038121375220504974
+GradientBoosting,Sort,Synthetic,21,1000,0.09760484330424722
+ErnestModel,Sort,Original,24,0,0.06050770271134404
+GradientBoosting,Sort,Original,24,0,0.08212040543987247
+ErnestModel,Sort,Synthetic,24,1000,0.057632480615418584
+GradientBoosting,Sort,Synthetic,24,1000,0.11846451139421839
+ErnestModel,Sort,Original,27,0,0.07214359962884415
+GradientBoosting,Sort,Original,27,0,0.035209462396361524
+ErnestModel,Sort,Synthetic,27,1000,0.06722498733075313
+GradientBoosting,Sort,Synthetic,27,1000,0.07448979034431773
+ErnestModel,Sort,Original,30,0,0.09008955485240784
+GradientBoosting,Sort,Original,30,0,0.06931326527427763
+ErnestModel,Sort,Synthetic,30,1000,0.09242828881749725
+GradientBoosting,Sort,Synthetic,30,1000,0.0611353942892694
+ErnestModel,Sort,Original,33,0,0.06023979442316224
+GradientBoosting,Sort,Original,33,0,0.007770485931731289
+ErnestModel,Sort,Synthetic,33,1000,0.06324684181192397
+GradientBoosting,Sort,Synthetic,33,1000,0.02785820390871666
+ErnestModel,Sort,Original,3,0,0.06635328920124793
+GradientBoosting,Sort,Original,3,0,0.3426103306002026
+ErnestModel,Sort,Synthetic,3,1000,0.06231383364938432
+GradientBoosting,Sort,Synthetic,3,1000,0.3053861515959197
+ErnestModel,Sort,Original,6,0,0.060170762587293446
+GradientBoosting,Sort,Original,6,0,0.22575434715341708
+ErnestModel,Sort,Synthetic,6,1000,0.061423543410270134
+GradientBoosting,Sort,Synthetic,6,1000,0.22291124177286328
+ErnestModel,Sort,Original,9,0,0.0578226785048532
+GradientBoosting,Sort,Original,9,0,0.20190791666513389
+ErnestModel,Sort,Synthetic,9,1000,0.0700421584087407
+GradientBoosting,Sort,Synthetic,9,1000,0.18815821708560404
+ErnestModel,Sort,Original,12,0,0.0758485073016208
+GradientBoosting,Sort,Original,12,0,0.138402847079291
+ErnestModel,Sort,Synthetic,12,1000,0.08039123459136414
+GradientBoosting,Sort,Synthetic,12,1000,0.14899985686240982
+ErnestModel,Sort,Original,15,0,0.06182426326187589
+GradientBoosting,Sort,Original,15,0,0.0743027748610259
+ErnestModel,Sort,Synthetic,15,1000,0.059175915925854236
+GradientBoosting,Sort,Synthetic,15,1000,0.07089413270030469
+ErnestModel,Sort,Original,18,0,0.06407039660613911
+GradientBoosting,Sort,Original,18,0,0.0762429865765372
+ErnestModel,Sort,Synthetic,18,1000,0.06927020342998032
+GradientBoosting,Sort,Synthetic,18,1000,0.0820309118575298
+ErnestModel,Sort,Original,21,0,0.07644007243420874
+GradientBoosting,Sort,Original,21,0,0.09370008195538157
+ErnestModel,Sort,Synthetic,21,1000,0.07460481293537823
+GradientBoosting,Sort,Synthetic,21,1000,0.14073428071886157
+ErnestModel,Sort,Original,24,0,0.0442972628799942
+GradientBoosting,Sort,Original,24,0,0.07317117760662635
+ErnestModel,Sort,Synthetic,24,1000,0.04773892275047439
+GradientBoosting,Sort,Synthetic,24,1000,0.07744830970679929
+ErnestModel,Sort,Original,27,0,0.03993027201990997
+GradientBoosting,Sort,Original,27,0,0.06492617922905734
+ErnestModel,Sort,Synthetic,27,1000,0.04191986933879528
+GradientBoosting,Sort,Synthetic,27,1000,0.062026052172602646
+ErnestModel,Sort,Original,30,0,0.04613979277621106
+GradientBoosting,Sort,Original,30,0,0.07855109742324444
+ErnestModel,Sort,Synthetic,30,1000,0.04069299571690971
+GradientBoosting,Sort,Synthetic,30,1000,0.11575590794853717
+ErnestModel,Sort,Original,33,0,0.10034044368252187
+GradientBoosting,Sort,Original,33,0,0.011246686038423263
+ErnestModel,Sort,Synthetic,33,1000,0.09511162717883026
+GradientBoosting,Sort,Synthetic,33,1000,0.08946319602730697
+ErnestModel,Sort,Original,3,0,0.08055497609301934
+GradientBoosting,Sort,Original,3,0,0.20330354826694513
+ErnestModel,Sort,Synthetic,3,1000,0.09165431580789916
+GradientBoosting,Sort,Synthetic,3,1000,0.20093333450994524
+ErnestModel,Sort,Original,6,0,0.0798672364533933
+GradientBoosting,Sort,Original,6,0,0.2613551986184654
+ErnestModel,Sort,Synthetic,6,1000,0.10927658615559102
+GradientBoosting,Sort,Synthetic,6,1000,0.12919754020035193
+ErnestModel,Sort,Original,9,0,0.06440442522098529
+GradientBoosting,Sort,Original,9,0,0.15147604732470174
+ErnestModel,Sort,Synthetic,9,1000,0.0641592430467301
+GradientBoosting,Sort,Synthetic,9,1000,0.13513320754806046
+ErnestModel,Sort,Original,12,0,0.06607669372726409
+GradientBoosting,Sort,Original,12,0,0.1485100156785409
+ErnestModel,Sort,Synthetic,12,1000,0.06765580047208476
+GradientBoosting,Sort,Synthetic,12,1000,0.18254082609731226
+ErnestModel,Sort,Original,15,0,0.054048319552489954
+GradientBoosting,Sort,Original,15,0,0.07827530622788322
+ErnestModel,Sort,Synthetic,15,1000,0.05965103627977014
+GradientBoosting,Sort,Synthetic,15,1000,0.09087659682685813
+ErnestModel,Sort,Original,18,0,0.04512623020314098
+GradientBoosting,Sort,Original,18,0,0.08349282991818047
+ErnestModel,Sort,Synthetic,18,1000,0.04583107440079284
+GradientBoosting,Sort,Synthetic,18,1000,0.07994096738855803
+ErnestModel,Sort,Original,21,0,0.07493843242058446
+GradientBoosting,Sort,Original,21,0,0.06721383308096286
+ErnestModel,Sort,Synthetic,21,1000,0.07198329250780523
+GradientBoosting,Sort,Synthetic,21,1000,0.10190144466392269
+ErnestModel,Sort,Original,24,0,0.04933227663755844
+GradientBoosting,Sort,Original,24,0,0.08608722418999452
+ErnestModel,Sort,Synthetic,24,1000,0.0574819941119377
+GradientBoosting,Sort,Synthetic,24,1000,0.10093729110209636
+ErnestModel,Sort,Original,27,0,0.04343530779118971
+GradientBoosting,Sort,Original,27,0,0.10283618387586757
+ErnestModel,Sort,Synthetic,27,1000,0.04843260368295832
+GradientBoosting,Sort,Synthetic,27,1000,0.11447727571053681
+ErnestModel,Sort,Original,30,0,0.06960866226326773
+GradientBoosting,Sort,Original,30,0,0.05235382067668081
+ErnestModel,Sort,Synthetic,30,1000,0.06336933407325875
+GradientBoosting,Sort,Synthetic,30,1000,0.12182675763216554
+ErnestModel,Sort,Original,33,0,0.04962879283368449
+GradientBoosting,Sort,Original,33,0,0.030077077745113406
+ErnestModel,Sort,Synthetic,33,1000,0.04156158055543433
+GradientBoosting,Sort,Synthetic,33,1000,0.060600426765695214
+ErnestModel,Sort,Original,3,0,0.0835346613263093
+GradientBoosting,Sort,Original,3,0,0.45593989603523555
+ErnestModel,Sort,Synthetic,3,1000,0.12298725133160425
+GradientBoosting,Sort,Synthetic,3,1000,0.5314228524454147
+ErnestModel,Sort,Original,6,0,0.05981163145557637
+GradientBoosting,Sort,Original,6,0,0.2504173006129069
+ErnestModel,Sort,Synthetic,6,1000,0.06360232439019874
+GradientBoosting,Sort,Synthetic,6,1000,0.2646150441307239
+ErnestModel,Sort,Original,9,0,0.048718586799324295
+GradientBoosting,Sort,Original,9,0,0.1930356305753943
+ErnestModel,Sort,Synthetic,9,1000,0.04596950585219795
+GradientBoosting,Sort,Synthetic,9,1000,0.17854244056102656
+ErnestModel,Sort,Original,12,0,0.056366253491133535
+GradientBoosting,Sort,Original,12,0,0.11294159082210216
+ErnestModel,Sort,Synthetic,12,1000,0.05212947323395248
+GradientBoosting,Sort,Synthetic,12,1000,0.10758594026409767
+ErnestModel,Sort,Original,15,0,0.06273783513255819
+GradientBoosting,Sort,Original,15,0,0.08772977615746007
+ErnestModel,Sort,Synthetic,15,1000,0.06672931376550649
+GradientBoosting,Sort,Synthetic,15,1000,0.13735021978442882
+ErnestModel,Sort,Original,18,0,0.06171856331080047
+GradientBoosting,Sort,Original,18,0,0.06062921039886539
+ErnestModel,Sort,Synthetic,18,1000,0.06062760026409258
+GradientBoosting,Sort,Synthetic,18,1000,0.06196211496482292
+ErnestModel,Sort,Original,21,0,0.06070034621941501
+GradientBoosting,Sort,Original,21,0,0.11195701700208104
+ErnestModel,Sort,Synthetic,21,1000,0.07046412938607848
+GradientBoosting,Sort,Synthetic,21,1000,0.12054963211037246
+ErnestModel,Sort,Original,24,0,0.054657217155299066
+GradientBoosting,Sort,Original,24,0,0.051102776401011595
+ErnestModel,Sort,Synthetic,24,1000,0.05648580551355842
+GradientBoosting,Sort,Synthetic,24,1000,0.09897680689962296
+ErnestModel,Sort,Original,27,0,0.07718537327865366
+GradientBoosting,Sort,Original,27,0,0.052351118872425204
+ErnestModel,Sort,Synthetic,27,1000,0.07557882857686908
+GradientBoosting,Sort,Synthetic,27,1000,0.07932626013775274
+ErnestModel,Sort,Original,30,0,0.07626151832471277
+GradientBoosting,Sort,Original,30,0,0.04434067753567534
+ErnestModel,Sort,Synthetic,30,1000,0.06956648075842273
+GradientBoosting,Sort,Synthetic,30,1000,0.047691512172077004
+ErnestModel,Sort,Original,33,0,0.03208242824967793
+GradientBoosting,Sort,Original,33,0,0.07194514999122385
+ErnestModel,Sort,Synthetic,33,1000,0.027408531069253454
+GradientBoosting,Sort,Synthetic,33,1000,0.057811464061831574
+ErnestModel,Sort,Original,3,0,0.08267913862841335
+GradientBoosting,Sort,Original,3,0,0.5110053220496347
+ErnestModel,Sort,Synthetic,3,1000,0.06528474155358614
+GradientBoosting,Sort,Synthetic,3,1000,0.49865087676312925
+ErnestModel,Sort,Original,6,0,0.06548206993694587
+GradientBoosting,Sort,Original,6,0,0.3060949291344289
+ErnestModel,Sort,Synthetic,6,1000,0.05890335990169945
+GradientBoosting,Sort,Synthetic,6,1000,0.3157573935976013
+ErnestModel,Sort,Original,9,0,0.08119232739642163
+GradientBoosting,Sort,Original,9,0,0.2083025356033758
+ErnestModel,Sort,Synthetic,9,1000,0.09134793461358402
+GradientBoosting,Sort,Synthetic,9,1000,0.22302669791296303
+ErnestModel,Sort,Original,12,0,0.06678674148110882
+GradientBoosting,Sort,Original,12,0,0.1290601898640116
+ErnestModel,Sort,Synthetic,12,1000,0.07307235926195531
+GradientBoosting,Sort,Synthetic,12,1000,0.11050211657563068
+ErnestModel,Sort,Original,15,0,0.060986655113620586
+GradientBoosting,Sort,Original,15,0,0.12287541185150162
+ErnestModel,Sort,Synthetic,15,1000,0.05852355762685154
+GradientBoosting,Sort,Synthetic,15,1000,0.11788139390246737
+ErnestModel,Sort,Original,18,0,0.04961034936717106
+GradientBoosting,Sort,Original,18,0,0.0824979735696837
+ErnestModel,Sort,Synthetic,18,1000,0.04764716871222738
+GradientBoosting,Sort,Synthetic,18,1000,0.08263564541793511
+ErnestModel,Sort,Original,21,0,0.07133632206944117
+GradientBoosting,Sort,Original,21,0,0.09594689908987725
+ErnestModel,Sort,Synthetic,21,1000,0.06552558178385225
+GradientBoosting,Sort,Synthetic,21,1000,0.11621596045887403
+ErnestModel,Sort,Original,24,0,0.04674039643179534
+GradientBoosting,Sort,Original,24,0,0.10215138522972844
+ErnestModel,Sort,Synthetic,24,1000,0.04560279900586046
+GradientBoosting,Sort,Synthetic,24,1000,0.10806207737156476
+ErnestModel,Sort,Original,27,0,0.055007197208989084
+GradientBoosting,Sort,Original,27,0,0.06945182635031616
+ErnestModel,Sort,Synthetic,27,1000,0.06106660941465747
+GradientBoosting,Sort,Synthetic,27,1000,0.101935483999422
+ErnestModel,Sort,Original,30,0,0.08637548517152001
+GradientBoosting,Sort,Original,30,0,0.049532184557460966
+ErnestModel,Sort,Synthetic,30,1000,0.07510345715666605
+GradientBoosting,Sort,Synthetic,30,1000,0.04831437810549446
+ErnestModel,Sort,Original,33,0,0.029508682760673765
+GradientBoosting,Sort,Original,33,0,0.08227928002291662
+ErnestModel,Sort,Synthetic,33,1000,0.022394164671990156
+GradientBoosting,Sort,Synthetic,33,1000,0.0885708153072788
+ErnestModel,Sort,Original,3,0,0.0772892151591845
+GradientBoosting,Sort,Original,3,0,0.3917992876446681
+ErnestModel,Sort,Synthetic,3,1000,0.09238788429459288
+GradientBoosting,Sort,Synthetic,3,1000,0.45920832352736
+ErnestModel,Sort,Original,6,0,0.06900991150066481
+GradientBoosting,Sort,Original,6,0,0.5151268393987718
+ErnestModel,Sort,Synthetic,6,1000,0.06178415863116566
+GradientBoosting,Sort,Synthetic,6,1000,0.47250087862216245
+ErnestModel,Sort,Original,9,0,0.06907130169570543
+GradientBoosting,Sort,Original,9,0,0.3839916061182812
+ErnestModel,Sort,Synthetic,9,1000,0.058106943888336364
+GradientBoosting,Sort,Synthetic,9,1000,0.17852669513332686
+ErnestModel,Sort,Original,12,0,0.06231333173183105
+GradientBoosting,Sort,Original,12,0,0.1370422267442283
+ErnestModel,Sort,Synthetic,12,1000,0.06544414872232894
+GradientBoosting,Sort,Synthetic,12,1000,0.2933866922171398
+ErnestModel,Sort,Original,15,0,0.06245747876766056
+GradientBoosting,Sort,Original,15,0,0.0827211511582982
+ErnestModel,Sort,Synthetic,15,1000,0.06611457827887206
+GradientBoosting,Sort,Synthetic,15,1000,0.0893259786972442
+ErnestModel,Sort,Original,18,0,0.06595624010678808
+GradientBoosting,Sort,Original,18,0,0.05660998865625363
+ErnestModel,Sort,Synthetic,18,1000,0.06436615966314975
+GradientBoosting,Sort,Synthetic,18,1000,0.09742936727629051
+ErnestModel,Sort,Original,21,0,0.06580915946513988
+GradientBoosting,Sort,Original,21,0,0.06293402913826814
+ErnestModel,Sort,Synthetic,21,1000,0.06561170212348862
+GradientBoosting,Sort,Synthetic,21,1000,0.08871062249437765
+ErnestModel,Sort,Original,24,0,0.0520604389858198
+GradientBoosting,Sort,Original,24,0,0.06146697040714431
+ErnestModel,Sort,Synthetic,24,1000,0.05447102773200011
+GradientBoosting,Sort,Synthetic,24,1000,0.10636562984518054
+ErnestModel,Sort,Original,27,0,0.07287445032366374
+GradientBoosting,Sort,Original,27,0,0.057840167816642175
+ErnestModel,Sort,Synthetic,27,1000,0.07212098170881978
+GradientBoosting,Sort,Synthetic,27,1000,0.08068236734328281
+ErnestModel,Sort,Original,30,0,0.044921547509152525
+GradientBoosting,Sort,Original,30,0,0.019857695099499955
+ErnestModel,Sort,Synthetic,30,1000,0.0446592971534508
+GradientBoosting,Sort,Synthetic,30,1000,0.10895971105286291
+ErnestModel,Sort,Original,33,0,0.05269443264934836
+GradientBoosting,Sort,Original,33,0,0.0505253797910075
+ErnestModel,Sort,Synthetic,33,1000,0.05770889133899667
+GradientBoosting,Sort,Synthetic,33,1000,0.09465282004706044
+ErnestModel,Sort,Original,3,0,0.20494750494552308
+GradientBoosting,Sort,Original,3,0,0.6392210580944139
+ErnestModel,Sort,Synthetic,3,1000,0.0860876204686699
+GradientBoosting,Sort,Synthetic,3,1000,0.6756291940400849
+ErnestModel,Sort,Original,6,0,0.057796468791178855
+GradientBoosting,Sort,Original,6,0,0.19204306726576173
+ErnestModel,Sort,Synthetic,6,1000,0.0629561579271441
+GradientBoosting,Sort,Synthetic,6,1000,0.1877687192609782
+ErnestModel,Sort,Original,9,0,0.06110664836861703
+GradientBoosting,Sort,Original,9,0,0.210065016817092
+ErnestModel,Sort,Synthetic,9,1000,0.06535771048333439
+GradientBoosting,Sort,Synthetic,9,1000,0.2194159087193791
+ErnestModel,Sort,Original,12,0,0.03916155550804975
+GradientBoosting,Sort,Original,12,0,0.16869134457218335
+ErnestModel,Sort,Synthetic,12,1000,0.04417807368688476
+GradientBoosting,Sort,Synthetic,12,1000,0.18135868050830087
+ErnestModel,Sort,Original,15,0,0.07370748203389585
+GradientBoosting,Sort,Original,15,0,0.10211320995271407
+ErnestModel,Sort,Synthetic,15,1000,0.07820041652101532
+GradientBoosting,Sort,Synthetic,15,1000,0.11991398193629303
+ErnestModel,Sort,Original,18,0,0.057756716634397076
+GradientBoosting,Sort,Original,18,0,0.05302940299139821
+ErnestModel,Sort,Synthetic,18,1000,0.058282760632150286
+GradientBoosting,Sort,Synthetic,18,1000,0.07583356886534769
+ErnestModel,Sort,Original,21,0,0.056183129593811346
+GradientBoosting,Sort,Original,21,0,0.03931566084772484
+ErnestModel,Sort,Synthetic,21,1000,0.0656576718502571
+GradientBoosting,Sort,Synthetic,21,1000,0.061941937221722206
+ErnestModel,Sort,Original,24,0,0.06396368948918436
+GradientBoosting,Sort,Original,24,0,0.06095632311873783
+ErnestModel,Sort,Synthetic,24,1000,0.05980274084067253
+GradientBoosting,Sort,Synthetic,24,1000,0.06463743155068817
+ErnestModel,Sort,Original,27,0,0.05077067039205667
+GradientBoosting,Sort,Original,27,0,0.039411686054600145
+ErnestModel,Sort,Synthetic,27,1000,0.050556830483844954
+GradientBoosting,Sort,Synthetic,27,1000,0.05770890281039217
+ErnestModel,Sort,Original,30,0,0.05698739954152515
+GradientBoosting,Sort,Original,30,0,0.0315475808190166
+ErnestModel,Sort,Synthetic,30,1000,0.05222388289317977
+GradientBoosting,Sort,Synthetic,30,1000,0.0888690975144188
+ErnestModel,Sort,Original,33,0,0.07370103411057753
+GradientBoosting,Sort,Original,33,0,0.09124761393754614
+ErnestModel,Sort,Synthetic,33,1000,0.05786219127062262
+GradientBoosting,Sort,Synthetic,33,1000,0.10152542396631968
+ErnestModel,Sort,Original,3,0,0.13877374259179934
+GradientBoosting,Sort,Original,3,0,0.6210439894826452
+ErnestModel,Sort,Synthetic,3,1000,0.15869015726987368
+GradientBoosting,Sort,Synthetic,3,1000,0.654106972846683
+ErnestModel,Sort,Original,6,0,0.054380040807022516
+GradientBoosting,Sort,Original,6,0,0.18021647928260176
+ErnestModel,Sort,Synthetic,6,1000,0.05381077707047662
+GradientBoosting,Sort,Synthetic,6,1000,0.1709964848183241
+ErnestModel,Sort,Original,9,0,0.06671007782964186
+GradientBoosting,Sort,Original,9,0,0.14532532722688685
+ErnestModel,Sort,Synthetic,9,1000,0.07679331806192738
+GradientBoosting,Sort,Synthetic,9,1000,0.13363447417540314
+ErnestModel,Sort,Original,12,0,0.053561902189679954
+GradientBoosting,Sort,Original,12,0,0.20070465996016099
+ErnestModel,Sort,Synthetic,12,1000,0.05715637736374737
+GradientBoosting,Sort,Synthetic,12,1000,0.23245793470423473
+ErnestModel,Sort,Original,15,0,0.08974424919798073
+GradientBoosting,Sort,Original,15,0,0.2517712429734842
+ErnestModel,Sort,Synthetic,15,1000,0.10175394871373784
+GradientBoosting,Sort,Synthetic,15,1000,0.17527330481374803
+ErnestModel,Sort,Original,18,0,0.06779098754829807
+GradientBoosting,Sort,Original,18,0,0.0956144431374454
+ErnestModel,Sort,Synthetic,18,1000,0.0626121013090495
+GradientBoosting,Sort,Synthetic,18,1000,0.125912098455787
+ErnestModel,Sort,Original,21,0,0.0502815916500551
+GradientBoosting,Sort,Original,21,0,0.07464771527431048
+ErnestModel,Sort,Synthetic,21,1000,0.0531789087294307
+GradientBoosting,Sort,Synthetic,21,1000,0.09918651463292376
+ErnestModel,Sort,Original,24,0,0.05634823891447602
+GradientBoosting,Sort,Original,24,0,0.06246668079996078
+ErnestModel,Sort,Synthetic,24,1000,0.053449282831542246
+GradientBoosting,Sort,Synthetic,24,1000,0.1042392696635651
+ErnestModel,Sort,Original,27,0,0.061049642601579954
+GradientBoosting,Sort,Original,27,0,0.05793442426149986
+ErnestModel,Sort,Synthetic,27,1000,0.056617727710113114
+GradientBoosting,Sort,Synthetic,27,1000,0.08207033013287984
+ErnestModel,Sort,Original,30,0,0.025803275138966977
+GradientBoosting,Sort,Original,30,0,0.04747745414352405
+ErnestModel,Sort,Synthetic,30,1000,0.027396666659872195
+GradientBoosting,Sort,Synthetic,30,1000,0.07132783075953314
+ErnestModel,Sort,Original,33,0,0.0690780375705805
+GradientBoosting,Sort,Original,33,0,0.031485465552629384
+ErnestModel,Sort,Synthetic,33,1000,0.07430128143687727
+GradientBoosting,Sort,Synthetic,33,1000,0.06204387531029093
+ErnestModel,Sort,Original,3,0,0.08512445600228336
+GradientBoosting,Sort,Original,3,0,0.4594363922045069
+ErnestModel,Sort,Synthetic,3,1000,0.06814810560695919
+GradientBoosting,Sort,Synthetic,3,1000,0.3371814213530088
+ErnestModel,Sort,Original,6,0,0.05483564886103488
+GradientBoosting,Sort,Original,6,0,0.22811964931909412
+ErnestModel,Sort,Synthetic,6,1000,0.05957248490718415
+GradientBoosting,Sort,Synthetic,6,1000,0.21797992724339435
+ErnestModel,Sort,Original,9,0,0.08168821381115371
+GradientBoosting,Sort,Original,9,0,0.22179332531703758
+ErnestModel,Sort,Synthetic,9,1000,0.08084195766638141
+GradientBoosting,Sort,Synthetic,9,1000,0.18313739790965455
+ErnestModel,Sort,Original,12,0,0.0691759258410283
+GradientBoosting,Sort,Original,12,0,0.10031767174046358
+ErnestModel,Sort,Synthetic,12,1000,0.0697216647017892
+GradientBoosting,Sort,Synthetic,12,1000,0.0909576176358204
+ErnestModel,Sort,Original,15,0,0.06324119187986803
+GradientBoosting,Sort,Original,15,0,0.07440927727133068
+ErnestModel,Sort,Synthetic,15,1000,0.07622878987377232
+GradientBoosting,Sort,Synthetic,15,1000,0.07658303596610427
+ErnestModel,Sort,Original,18,0,0.044816936198036963
+GradientBoosting,Sort,Original,18,0,0.10967298435061487
+ErnestModel,Sort,Synthetic,18,1000,0.04612957521310739
+GradientBoosting,Sort,Synthetic,18,1000,0.11674413861317023
+ErnestModel,Sort,Original,21,0,0.06939521978956126
+GradientBoosting,Sort,Original,21,0,0.05495301859835214
+ErnestModel,Sort,Synthetic,21,1000,0.06756390107369256
+GradientBoosting,Sort,Synthetic,21,1000,0.07750869052744264
+ErnestModel,Sort,Original,24,0,0.06549120078087516
+GradientBoosting,Sort,Original,24,0,0.04591296237524862
+ErnestModel,Sort,Synthetic,24,1000,0.06440164232709733
+GradientBoosting,Sort,Synthetic,24,1000,0.09062186214406513
+ErnestModel,Sort,Original,27,0,0.06395790468881528
+GradientBoosting,Sort,Original,27,0,0.13953927105627625
+ErnestModel,Sort,Synthetic,27,1000,0.06161790678952634
+GradientBoosting,Sort,Synthetic,27,1000,0.17121695146469426
+ErnestModel,Sort,Original,30,0,0.03276522380852572
+GradientBoosting,Sort,Original,30,0,0.04820579959344248
+ErnestModel,Sort,Synthetic,30,1000,0.022320370811955512
+GradientBoosting,Sort,Synthetic,30,1000,0.09097554298900108
+ErnestModel,Sort,Original,33,0,0.042809423882889414
+GradientBoosting,Sort,Original,33,0,0.007210815645800291
+ErnestModel,Sort,Synthetic,33,1000,0.036734913586889545
+GradientBoosting,Sort,Synthetic,33,1000,0.033886558867558945
+ErnestModel,Sort,Original,3,0,0.08605651012596816
+GradientBoosting,Sort,Original,3,0,0.31914893271632994
+ErnestModel,Sort,Synthetic,3,1000,0.06307924613833715
+GradientBoosting,Sort,Synthetic,3,1000,0.3549659205846244
+ErnestModel,Sort,Original,6,0,0.056327359480512304
+GradientBoosting,Sort,Original,6,0,0.23072901938093288
+ErnestModel,Sort,Synthetic,6,1000,0.05882938868859744
+GradientBoosting,Sort,Synthetic,6,1000,0.22124418564414833
+ErnestModel,Sort,Original,9,0,0.07132785319913171
+GradientBoosting,Sort,Original,9,0,0.13627884835187334
+ErnestModel,Sort,Synthetic,9,1000,0.07290655586867821
+GradientBoosting,Sort,Synthetic,9,1000,0.13580973670844712
+ErnestModel,Sort,Original,12,0,0.07097287827477501
+GradientBoosting,Sort,Original,12,0,0.19259968553116869
+ErnestModel,Sort,Synthetic,12,1000,0.07742092022547102
+GradientBoosting,Sort,Synthetic,12,1000,0.18385439894838362
+ErnestModel,Sort,Original,15,0,0.060738137047037476
+GradientBoosting,Sort,Original,15,0,0.10585870644387568
+ErnestModel,Sort,Synthetic,15,1000,0.059614345877039975
+GradientBoosting,Sort,Synthetic,15,1000,0.08229532286999827
+ErnestModel,Sort,Original,18,0,0.05772852721516545
+GradientBoosting,Sort,Original,18,0,0.08684686174185097
+ErnestModel,Sort,Synthetic,18,1000,0.06070008760934193
+GradientBoosting,Sort,Synthetic,18,1000,0.09853020955041586
+ErnestModel,Sort,Original,21,0,0.05627273509275201
+GradientBoosting,Sort,Original,21,0,0.04802412785434537
+ErnestModel,Sort,Synthetic,21,1000,0.06744758358370828
+GradientBoosting,Sort,Synthetic,21,1000,0.06917471704028962
+ErnestModel,Sort,Original,24,0,0.07050199325784808
+GradientBoosting,Sort,Original,24,0,0.059339449678661206
+ErnestModel,Sort,Synthetic,24,1000,0.0724641730800385
+GradientBoosting,Sort,Synthetic,24,1000,0.09325625227452518
+ErnestModel,Sort,Original,27,0,0.042730450337585935
+GradientBoosting,Sort,Original,27,0,0.06460748944811383
+ErnestModel,Sort,Synthetic,27,1000,0.046996459918709425
+GradientBoosting,Sort,Synthetic,27,1000,0.11150753699274592
+ErnestModel,Sort,Original,30,0,0.05620622692918913
+GradientBoosting,Sort,Original,30,0,0.025116001933965047
+ErnestModel,Sort,Synthetic,30,1000,0.061931887596867546
+GradientBoosting,Sort,Synthetic,30,1000,0.046532323943668
+ErnestModel,Sort,Original,33,0,0.015406850129408678
+GradientBoosting,Sort,Original,33,0,0.053922108042372074
+ErnestModel,Sort,Synthetic,33,1000,0.009864405025680893
+GradientBoosting,Sort,Synthetic,33,1000,0.07315873052517115
+ErnestModel,Grep,Original,3,0,0.4932454627833216
+GradientBoosting,Grep,Original,3,0,0.4053746195594778
+ErnestModel,Grep,Synthetic,3,1000,0.48740995814813404
+GradientBoosting,Grep,Synthetic,3,1000,0.4194749463686999
+ErnestModel,Grep,Original,6,0,0.3484009228097232
+GradientBoosting,Grep,Original,6,0,0.28288843059645113
+ErnestModel,Grep,Synthetic,6,1000,0.34457936039983394
+GradientBoosting,Grep,Synthetic,6,1000,0.2720235789843357
+ErnestModel,Grep,Original,9,0,0.5667674161443058
+GradientBoosting,Grep,Original,9,0,0.526323363608403
+ErnestModel,Grep,Synthetic,9,1000,0.5670999534653933
+GradientBoosting,Grep,Synthetic,9,1000,0.5457154799638421
+ErnestModel,Grep,Original,12,0,0.5971598376745716
+GradientBoosting,Grep,Original,12,0,0.29301772541587884
+ErnestModel,Grep,Synthetic,12,1000,0.5795878874650838
+GradientBoosting,Grep,Synthetic,12,1000,0.2746088441406614
+ErnestModel,Grep,Original,15,0,0.397629694495153
+GradientBoosting,Grep,Original,15,0,0.18936656444305308
+ErnestModel,Grep,Synthetic,15,1000,0.39650684766334093
+GradientBoosting,Grep,Synthetic,15,1000,0.21094363480618672
+ErnestModel,Grep,Original,18,0,0.42162850754692727
+GradientBoosting,Grep,Original,18,0,0.16078359027596223
+ErnestModel,Grep,Synthetic,18,1000,0.4163836621266614
+GradientBoosting,Grep,Synthetic,18,1000,0.1805422882751369
+ErnestModel,Grep,Original,21,0,0.45570310082170534
+GradientBoosting,Grep,Original,21,0,0.1422364541026362
+ErnestModel,Grep,Synthetic,21,1000,0.46028208544895527
+GradientBoosting,Grep,Synthetic,21,1000,0.12392573827545594
+ErnestModel,Grep,Original,24,0,0.36288680513614324
+GradientBoosting,Grep,Original,24,0,0.15640259160743936
+ErnestModel,Grep,Synthetic,24,1000,0.3587015792785523
+GradientBoosting,Grep,Synthetic,24,1000,0.15373770063872796
+ErnestModel,Grep,Original,27,0,0.42321847486038405
+GradientBoosting,Grep,Original,27,0,0.110261910393646
+ErnestModel,Grep,Synthetic,27,1000,0.4358011714852735
+GradientBoosting,Grep,Synthetic,27,1000,0.15862512680894172
+ErnestModel,Grep,Original,30,0,0.5072777205662418
+GradientBoosting,Grep,Original,30,0,0.20968370133608072
+ErnestModel,Grep,Synthetic,30,1000,0.5099434389939426
+GradientBoosting,Grep,Synthetic,30,1000,0.2143970648885724
+ErnestModel,Grep,Original,33,0,0.35221497193477797
+GradientBoosting,Grep,Original,33,0,0.10396012634828039
+ErnestModel,Grep,Synthetic,33,1000,0.35436439653210017
+GradientBoosting,Grep,Synthetic,33,1000,0.10382318945177128
+ErnestModel,Grep,Original,3,0,0.41614068696859924
+GradientBoosting,Grep,Original,3,0,0.2903816243223156
+ErnestModel,Grep,Synthetic,3,1000,0.41397599924262035
+GradientBoosting,Grep,Synthetic,3,1000,0.3052674632970639
+ErnestModel,Grep,Original,6,0,0.44853908151958943
+GradientBoosting,Grep,Original,6,0,0.2972283243189422
+ErnestModel,Grep,Synthetic,6,1000,0.4440844238717363
+GradientBoosting,Grep,Synthetic,6,1000,0.2930462880308686
+ErnestModel,Grep,Original,9,0,0.48844514881831136
+GradientBoosting,Grep,Original,9,0,0.5204075219677544
+ErnestModel,Grep,Synthetic,9,1000,0.4759069839882385
+GradientBoosting,Grep,Synthetic,9,1000,0.48240422386288095
+ErnestModel,Grep,Original,12,0,0.43054130875452296
+GradientBoosting,Grep,Original,12,0,0.20014408309634776
+ErnestModel,Grep,Synthetic,12,1000,0.44217344344007103
+GradientBoosting,Grep,Synthetic,12,1000,0.18685795022260657
+ErnestModel,Grep,Original,15,0,0.36781163560675173
+GradientBoosting,Grep,Original,15,0,0.23350559852928915
+ErnestModel,Grep,Synthetic,15,1000,0.37081242188396424
+GradientBoosting,Grep,Synthetic,15,1000,0.2228994256481127
+ErnestModel,Grep,Original,18,0,0.40311054717559447
+GradientBoosting,Grep,Original,18,0,0.18454109385115255
+ErnestModel,Grep,Synthetic,18,1000,0.4075413539712578
+GradientBoosting,Grep,Synthetic,18,1000,0.1921530598466215
+ErnestModel,Grep,Original,21,0,0.6625094050189619
+GradientBoosting,Grep,Original,21,0,0.3449892791511334
+ErnestModel,Grep,Synthetic,21,1000,0.6533711494178726
+GradientBoosting,Grep,Synthetic,21,1000,0.3026797914974284
+ErnestModel,Grep,Original,24,0,0.3518572823803725
+GradientBoosting,Grep,Original,24,0,0.1498159890808497
+ErnestModel,Grep,Synthetic,24,1000,0.3614349401946483
+GradientBoosting,Grep,Synthetic,24,1000,0.13407093111724322
+ErnestModel,Grep,Original,27,0,0.44679229826792977
+GradientBoosting,Grep,Original,27,0,0.0847837364909618
+ErnestModel,Grep,Synthetic,27,1000,0.45101670853181386
+GradientBoosting,Grep,Synthetic,27,1000,0.10322688515702066
+ErnestModel,Grep,Original,30,0,0.37214309710134913
+GradientBoosting,Grep,Original,30,0,0.08257856989924361
+ErnestModel,Grep,Synthetic,30,1000,0.37444489891003946
+GradientBoosting,Grep,Synthetic,30,1000,0.12389673067979091
+ErnestModel,Grep,Original,33,0,0.41828940623748045
+GradientBoosting,Grep,Original,33,0,0.10283256048402492
+ErnestModel,Grep,Synthetic,33,1000,0.4294423088440092
+GradientBoosting,Grep,Synthetic,33,1000,0.11566892897959255
+ErnestModel,Grep,Original,3,0,0.34311049580166
+GradientBoosting,Grep,Original,3,0,0.41962908468546695
+ErnestModel,Grep,Synthetic,3,1000,0.34360713275371046
+GradientBoosting,Grep,Synthetic,3,1000,0.4338331944099554
+ErnestModel,Grep,Original,6,0,0.5437492444205243
+GradientBoosting,Grep,Original,6,0,0.624030738720029
+ErnestModel,Grep,Synthetic,6,1000,0.5469056635706594
+GradientBoosting,Grep,Synthetic,6,1000,0.6352656679674031
+ErnestModel,Grep,Original,9,0,0.35865097495685677
+GradientBoosting,Grep,Original,9,0,0.5908683643444894
+ErnestModel,Grep,Synthetic,9,1000,0.35659667096990594
+GradientBoosting,Grep,Synthetic,9,1000,0.42802503457350827
+ErnestModel,Grep,Original,12,0,0.47218477098411765
+GradientBoosting,Grep,Original,12,0,0.38597216528478767
+ErnestModel,Grep,Synthetic,12,1000,0.47479030295959407
+GradientBoosting,Grep,Synthetic,12,1000,0.44401229379443036
+ErnestModel,Grep,Original,15,0,0.4566672321705124
+GradientBoosting,Grep,Original,15,0,0.16817750072033985
+ErnestModel,Grep,Synthetic,15,1000,0.45668715599186166
+GradientBoosting,Grep,Synthetic,15,1000,0.17762275026848245
+ErnestModel,Grep,Original,18,0,0.4747589053154382
+GradientBoosting,Grep,Original,18,0,0.20552473751453476
+ErnestModel,Grep,Synthetic,18,1000,0.4862347129942403
+GradientBoosting,Grep,Synthetic,18,1000,0.20436572323397503
+ErnestModel,Grep,Original,21,0,0.3980680876467052
+GradientBoosting,Grep,Original,21,0,0.12546693680081145
+ErnestModel,Grep,Synthetic,21,1000,0.398069819500582
+GradientBoosting,Grep,Synthetic,21,1000,0.10644978864568064
+ErnestModel,Grep,Original,24,0,0.4681858743781395
+GradientBoosting,Grep,Original,24,0,0.13741430171535593
+ErnestModel,Grep,Synthetic,24,1000,0.47493010015052034
+GradientBoosting,Grep,Synthetic,24,1000,0.1320819693811986
+ErnestModel,Grep,Original,27,0,0.4508266017959611
+GradientBoosting,Grep,Original,27,0,0.11454319583124464
+ErnestModel,Grep,Synthetic,27,1000,0.452306142863055
+GradientBoosting,Grep,Synthetic,27,1000,0.11550029972857062
+ErnestModel,Grep,Original,30,0,0.3618607058039928
+GradientBoosting,Grep,Original,30,0,0.10174756512757147
+ErnestModel,Grep,Synthetic,30,1000,0.3701783756016575
+GradientBoosting,Grep,Synthetic,30,1000,0.10770937032941306
+ErnestModel,Grep,Original,33,0,0.45177908312605886
+GradientBoosting,Grep,Original,33,0,0.0834660681410245
+ErnestModel,Grep,Synthetic,33,1000,0.46250478928129607
+GradientBoosting,Grep,Synthetic,33,1000,0.10783659080604661
+ErnestModel,Grep,Original,3,0,0.6851429210918276
+GradientBoosting,Grep,Original,3,0,0.42202922040013807
+ErnestModel,Grep,Synthetic,3,1000,0.6902946225537638
+GradientBoosting,Grep,Synthetic,3,1000,0.4105927375385303
+ErnestModel,Grep,Original,6,0,0.3737999365907565
+GradientBoosting,Grep,Original,6,0,0.2990003438716698
+ErnestModel,Grep,Synthetic,6,1000,0.37089235365282686
+GradientBoosting,Grep,Synthetic,6,1000,0.31266902786210715
+ErnestModel,Grep,Original,9,0,0.3996030643046581
+GradientBoosting,Grep,Original,9,0,0.24082109147054365
+ErnestModel,Grep,Synthetic,9,1000,0.39823417886098583
+GradientBoosting,Grep,Synthetic,9,1000,0.2434525439749743
+ErnestModel,Grep,Original,12,0,0.4102129764433819
+GradientBoosting,Grep,Original,12,0,0.2561060153890952
+ErnestModel,Grep,Synthetic,12,1000,0.43022149289024425
+GradientBoosting,Grep,Synthetic,12,1000,0.2596131990607763
+ErnestModel,Grep,Original,15,0,0.46754552565694857
+GradientBoosting,Grep,Original,15,0,0.2407177749280067
+ErnestModel,Grep,Synthetic,15,1000,0.46218187979905206
+GradientBoosting,Grep,Synthetic,15,1000,0.24547862108931384
+ErnestModel,Grep,Original,18,0,0.4388898506260813
+GradientBoosting,Grep,Original,18,0,0.22900175181805715
+ErnestModel,Grep,Synthetic,18,1000,0.4420092229858799
+GradientBoosting,Grep,Synthetic,18,1000,0.2312930909156876
+ErnestModel,Grep,Original,21,0,0.37592260929250476
+GradientBoosting,Grep,Original,21,0,0.14847734693899148
+ErnestModel,Grep,Synthetic,21,1000,0.3853625647207791
+GradientBoosting,Grep,Synthetic,21,1000,0.16649091711515612
+ErnestModel,Grep,Original,24,0,0.436315831155066
+GradientBoosting,Grep,Original,24,0,0.12474471724778817
+ErnestModel,Grep,Synthetic,24,1000,0.4453618746121564
+GradientBoosting,Grep,Synthetic,24,1000,0.11706187044904137
+ErnestModel,Grep,Original,27,0,0.4502556260386164
+GradientBoosting,Grep,Original,27,0,0.12210673063439402
+ErnestModel,Grep,Synthetic,27,1000,0.4499771611205582
+GradientBoosting,Grep,Synthetic,27,1000,0.1165368102759404
+ErnestModel,Grep,Original,30,0,0.44124818709531144
+GradientBoosting,Grep,Original,30,0,0.09764054623730387
+ErnestModel,Grep,Synthetic,30,1000,0.45045561436788806
+GradientBoosting,Grep,Synthetic,30,1000,0.10449288015954038
+ErnestModel,Grep,Original,33,0,0.3879059838800456
+GradientBoosting,Grep,Original,33,0,0.09527336656264696
+ErnestModel,Grep,Synthetic,33,1000,0.3963243837289678
+GradientBoosting,Grep,Synthetic,33,1000,0.12337219710705988
+ErnestModel,Grep,Original,3,0,0.6119313552279321
+GradientBoosting,Grep,Original,3,0,0.597895962383536
+ErnestModel,Grep,Synthetic,3,1000,0.6078653126275977
+GradientBoosting,Grep,Synthetic,3,1000,0.5990574567250231
+ErnestModel,Grep,Original,6,0,0.3867650035630292
+GradientBoosting,Grep,Original,6,0,0.4268298901559832
+ErnestModel,Grep,Synthetic,6,1000,0.3904367071555025
+GradientBoosting,Grep,Synthetic,6,1000,0.40198156957759956
+ErnestModel,Grep,Original,9,0,0.5426434044909773
+GradientBoosting,Grep,Original,9,0,0.2580058918362183
+ErnestModel,Grep,Synthetic,9,1000,0.5285385959883991
+GradientBoosting,Grep,Synthetic,9,1000,0.24879531455500797
+ErnestModel,Grep,Original,12,0,0.44805724873531894
+GradientBoosting,Grep,Original,12,0,0.21539000669961061
+ErnestModel,Grep,Synthetic,12,1000,0.4498278097131684
+GradientBoosting,Grep,Synthetic,12,1000,0.18768907127835258
+ErnestModel,Grep,Original,15,0,0.3441790328027117
+GradientBoosting,Grep,Original,15,0,0.23696915716426928
+ErnestModel,Grep,Synthetic,15,1000,0.3439297549092053
+GradientBoosting,Grep,Synthetic,15,1000,0.17302602570318953
+ErnestModel,Grep,Original,18,0,0.4091410967534505
+GradientBoosting,Grep,Original,18,0,0.13340382194556558
+ErnestModel,Grep,Synthetic,18,1000,0.42092955876303023
+GradientBoosting,Grep,Synthetic,18,1000,0.15898088893139797
+ErnestModel,Grep,Original,21,0,0.4469577643258705
+GradientBoosting,Grep,Original,21,0,0.23772822479816208
+ErnestModel,Grep,Synthetic,21,1000,0.45405119175929387
+GradientBoosting,Grep,Synthetic,21,1000,0.2301051810980915
+ErnestModel,Grep,Original,24,0,0.40299630615015203
+GradientBoosting,Grep,Original,24,0,0.14766833504289423
+ErnestModel,Grep,Synthetic,24,1000,0.41357994504644674
+GradientBoosting,Grep,Synthetic,24,1000,0.19568232892538753
+ErnestModel,Grep,Original,27,0,0.4147052737493332
+GradientBoosting,Grep,Original,27,0,0.16198753419252748
+ErnestModel,Grep,Synthetic,27,1000,0.42178607629315085
+GradientBoosting,Grep,Synthetic,27,1000,0.15134229914601388
+ErnestModel,Grep,Original,30,0,0.4199641416705354
+GradientBoosting,Grep,Original,30,0,0.10721358236733207
+ErnestModel,Grep,Synthetic,30,1000,0.4281397788124856
+GradientBoosting,Grep,Synthetic,30,1000,0.14041975697321468
+ErnestModel,Grep,Original,33,0,0.3506339216409232
+GradientBoosting,Grep,Original,33,0,0.10763459500382624
+ErnestModel,Grep,Synthetic,33,1000,0.3506191385756542
+GradientBoosting,Grep,Synthetic,33,1000,0.152079464816934
+ErnestModel,Grep,Original,3,0,0.7104029296412555
+GradientBoosting,Grep,Original,3,0,0.5226907521037
+ErnestModel,Grep,Synthetic,3,1000,0.7104663288615334
+GradientBoosting,Grep,Synthetic,3,1000,0.509195392433452
+ErnestModel,Grep,Original,6,0,0.40291045351544663
+GradientBoosting,Grep,Original,6,0,0.2110309202148058
+ErnestModel,Grep,Synthetic,6,1000,0.39959829125261603
+GradientBoosting,Grep,Synthetic,6,1000,0.27731839146954296
+ErnestModel,Grep,Original,9,0,0.3960659505540497
+GradientBoosting,Grep,Original,9,0,0.25878513891791416
+ErnestModel,Grep,Synthetic,9,1000,0.40082523870487596
+GradientBoosting,Grep,Synthetic,9,1000,0.267403785155271
+ErnestModel,Grep,Original,12,0,0.3745905008975229
+GradientBoosting,Grep,Original,12,0,0.22249198911446846
+ErnestModel,Grep,Synthetic,12,1000,0.38305560692485824
+GradientBoosting,Grep,Synthetic,12,1000,0.2185185157114693
+ErnestModel,Grep,Original,15,0,0.3808660120658781
+GradientBoosting,Grep,Original,15,0,0.20365292901598053
+ErnestModel,Grep,Synthetic,15,1000,0.3865913009620329
+GradientBoosting,Grep,Synthetic,15,1000,0.17654576315730255
+ErnestModel,Grep,Original,18,0,0.3669748014038414
+GradientBoosting,Grep,Original,18,0,0.17740910267160778
+ErnestModel,Grep,Synthetic,18,1000,0.3764934731163083
+GradientBoosting,Grep,Synthetic,18,1000,0.15892865090333558
+ErnestModel,Grep,Original,21,0,0.3836387259375765
+GradientBoosting,Grep,Original,21,0,0.13660765407742584
+ErnestModel,Grep,Synthetic,21,1000,0.39161389968607213
+GradientBoosting,Grep,Synthetic,21,1000,0.13983374082822075
+ErnestModel,Grep,Original,24,0,0.4341134474943754
+GradientBoosting,Grep,Original,24,0,0.17293521064229875
+ErnestModel,Grep,Synthetic,24,1000,0.43464113059906906
+GradientBoosting,Grep,Synthetic,24,1000,0.18160615832365162
+ErnestModel,Grep,Original,27,0,0.40999073361662597
+GradientBoosting,Grep,Original,27,0,0.1091344868416995
+ErnestModel,Grep,Synthetic,27,1000,0.4177811396679552
+GradientBoosting,Grep,Synthetic,27,1000,0.14570928693734805
+ErnestModel,Grep,Original,30,0,0.43941067478094664
+GradientBoosting,Grep,Original,30,0,0.12600665871502736
+ErnestModel,Grep,Synthetic,30,1000,0.44163885820675264
+GradientBoosting,Grep,Synthetic,30,1000,0.1298286730134037
+ErnestModel,Grep,Original,33,0,0.4356109375917276
+GradientBoosting,Grep,Original,33,0,0.07410991291521007
+ErnestModel,Grep,Synthetic,33,1000,0.4514427409688072
+GradientBoosting,Grep,Synthetic,33,1000,0.09144665861506801
+ErnestModel,Grep,Original,3,0,0.43600667056351783
+GradientBoosting,Grep,Original,3,0,0.3502197632370472
+ErnestModel,Grep,Synthetic,3,1000,0.4277727695038353
+GradientBoosting,Grep,Synthetic,3,1000,0.40983986099031555
+ErnestModel,Grep,Original,6,0,0.46101108878179153
+GradientBoosting,Grep,Original,6,0,0.4197094261077075
+ErnestModel,Grep,Synthetic,6,1000,0.4632461629754822
+GradientBoosting,Grep,Synthetic,6,1000,0.43295003067036064
+ErnestModel,Grep,Original,9,0,0.3501660557182947
+GradientBoosting,Grep,Original,9,0,0.2371807310871458
+ErnestModel,Grep,Synthetic,9,1000,0.35028700120531026
+GradientBoosting,Grep,Synthetic,9,1000,0.2501631486283922
+ErnestModel,Grep,Original,12,0,0.44511015626340766
+GradientBoosting,Grep,Original,12,0,0.38395590726855855
+ErnestModel,Grep,Synthetic,12,1000,0.4460532973648841
+GradientBoosting,Grep,Synthetic,12,1000,0.4121881411631094
+ErnestModel,Grep,Original,15,0,0.520433081634001
+GradientBoosting,Grep,Original,15,0,0.44662887019287
+ErnestModel,Grep,Synthetic,15,1000,0.5370330986604556
+GradientBoosting,Grep,Synthetic,15,1000,0.411415403283498
+ErnestModel,Grep,Original,18,0,0.4040203068782243
+GradientBoosting,Grep,Original,18,0,0.19337884634038105
+ErnestModel,Grep,Synthetic,18,1000,0.40722471879107175
+GradientBoosting,Grep,Synthetic,18,1000,0.17755977570477285
+ErnestModel,Grep,Original,21,0,0.42684327108645603
+GradientBoosting,Grep,Original,21,0,0.10592029934104456
+ErnestModel,Grep,Synthetic,21,1000,0.43261304130839545
+GradientBoosting,Grep,Synthetic,21,1000,0.10880204912653588
+ErnestModel,Grep,Original,24,0,0.38637657804152264
+GradientBoosting,Grep,Original,24,0,0.10223230792654413
+ErnestModel,Grep,Synthetic,24,1000,0.38495281709783213
+GradientBoosting,Grep,Synthetic,24,1000,0.1323739072469456
+ErnestModel,Grep,Original,27,0,0.4081493432435956
+GradientBoosting,Grep,Original,27,0,0.10123370869315884
+ErnestModel,Grep,Synthetic,27,1000,0.4096235837874982
+GradientBoosting,Grep,Synthetic,27,1000,0.17584234710391153
+ErnestModel,Grep,Original,30,0,0.3782894919488825
+GradientBoosting,Grep,Original,30,0,0.09637537452248462
+ErnestModel,Grep,Synthetic,30,1000,0.3825376776750834
+GradientBoosting,Grep,Synthetic,30,1000,0.14427269205424043
+ErnestModel,Grep,Original,33,0,0.5320033415274612
+GradientBoosting,Grep,Original,33,0,0.15379817827998782
+ErnestModel,Grep,Synthetic,33,1000,0.5373072132656859
+GradientBoosting,Grep,Synthetic,33,1000,0.13778793944846654
+ErnestModel,Grep,Original,3,0,0.3554420512650642
+GradientBoosting,Grep,Original,3,0,0.5884588836438971
+ErnestModel,Grep,Synthetic,3,1000,0.3541133902650128
+GradientBoosting,Grep,Synthetic,3,1000,0.3408874634132018
+ErnestModel,Grep,Original,6,0,0.6142395376425348
+GradientBoosting,Grep,Original,6,0,0.3356539639130893
+ErnestModel,Grep,Synthetic,6,1000,0.6208047718845471
+GradientBoosting,Grep,Synthetic,6,1000,0.2640870544788605
+ErnestModel,Grep,Original,9,0,0.40475192131482135
+GradientBoosting,Grep,Original,9,0,0.25006859683384947
+ErnestModel,Grep,Synthetic,9,1000,0.40970171220558366
+GradientBoosting,Grep,Synthetic,9,1000,0.2325155898190741
+ErnestModel,Grep,Original,12,0,0.4679202284498303
+GradientBoosting,Grep,Original,12,0,0.33371662798933893
+ErnestModel,Grep,Synthetic,12,1000,0.47153804899017226
+GradientBoosting,Grep,Synthetic,12,1000,0.39185243081471854
+ErnestModel,Grep,Original,15,0,0.4994869846633655
+GradientBoosting,Grep,Original,15,0,0.3004697597615342
+ErnestModel,Grep,Synthetic,15,1000,0.526857587128114
+GradientBoosting,Grep,Synthetic,15,1000,0.2927961386550714
+ErnestModel,Grep,Original,18,0,0.428685559016469
+GradientBoosting,Grep,Original,18,0,0.16767464970164342
+ErnestModel,Grep,Synthetic,18,1000,0.43713643058838075
+GradientBoosting,Grep,Synthetic,18,1000,0.1657899798092091
+ErnestModel,Grep,Original,21,0,0.40240576985461934
+GradientBoosting,Grep,Original,21,0,0.16442506625968062
+ErnestModel,Grep,Synthetic,21,1000,0.41214114406735675
+GradientBoosting,Grep,Synthetic,21,1000,0.16877890661989153
+ErnestModel,Grep,Original,24,0,0.42210797787124377
+GradientBoosting,Grep,Original,24,0,0.14105237343015342
+ErnestModel,Grep,Synthetic,24,1000,0.4264483056598253
+GradientBoosting,Grep,Synthetic,24,1000,0.14103847793673338
+ErnestModel,Grep,Original,27,0,0.37648889677090347
+GradientBoosting,Grep,Original,27,0,0.13986366486370774
+ErnestModel,Grep,Synthetic,27,1000,0.3787652186180321
+GradientBoosting,Grep,Synthetic,27,1000,0.1921153085058402
+ErnestModel,Grep,Original,30,0,0.4135025436884966
+GradientBoosting,Grep,Original,30,0,0.1091622106176328
+ErnestModel,Grep,Synthetic,30,1000,0.42649829771799375
+GradientBoosting,Grep,Synthetic,30,1000,0.13283055712040803
+ErnestModel,Grep,Original,33,0,0.43800291591408297
+GradientBoosting,Grep,Original,33,0,0.08988422590093813
+ErnestModel,Grep,Synthetic,33,1000,0.4422044551822712
+GradientBoosting,Grep,Synthetic,33,1000,0.11306349091248949
+ErnestModel,Grep,Original,3,0,0.6545792251867871
+GradientBoosting,Grep,Original,3,0,0.4939905779262357
+ErnestModel,Grep,Synthetic,3,1000,0.6470687429205334
+GradientBoosting,Grep,Synthetic,3,1000,0.5044278974015032
+ErnestModel,Grep,Original,6,0,0.3456023091016211
+GradientBoosting,Grep,Original,6,0,0.5460498349690284
+ErnestModel,Grep,Synthetic,6,1000,0.34640751205777925
+GradientBoosting,Grep,Synthetic,6,1000,0.5352047541663021
+ErnestModel,Grep,Original,9,0,0.45610547465082135
+GradientBoosting,Grep,Original,9,0,0.30748109508346455
+ErnestModel,Grep,Synthetic,9,1000,0.4783316117426246
+GradientBoosting,Grep,Synthetic,9,1000,0.28081366217144366
+ErnestModel,Grep,Original,12,0,0.35149833828377325
+GradientBoosting,Grep,Original,12,0,0.26644614463594773
+ErnestModel,Grep,Synthetic,12,1000,0.35288018472589444
+GradientBoosting,Grep,Synthetic,12,1000,0.2539340280415633
+ErnestModel,Grep,Original,15,0,0.41762615685000876
+GradientBoosting,Grep,Original,15,0,0.17217009201123545
+ErnestModel,Grep,Synthetic,15,1000,0.4226049031418851
+GradientBoosting,Grep,Synthetic,15,1000,0.2024338871352633
+ErnestModel,Grep,Original,18,0,0.34558442276536466
+GradientBoosting,Grep,Original,18,0,0.11141031009477718
+ErnestModel,Grep,Synthetic,18,1000,0.3452449849124276
+GradientBoosting,Grep,Synthetic,18,1000,0.1479064939102279
+ErnestModel,Grep,Original,21,0,0.5420156951650329
+GradientBoosting,Grep,Original,21,0,0.13531288397700295
+ErnestModel,Grep,Synthetic,21,1000,0.5479927968158164
+GradientBoosting,Grep,Synthetic,21,1000,0.16975836545275758
+ErnestModel,Grep,Original,24,0,0.43117159305641173
+GradientBoosting,Grep,Original,24,0,0.09880430415220846
+ErnestModel,Grep,Synthetic,24,1000,0.44742280143064833
+GradientBoosting,Grep,Synthetic,24,1000,0.11691427126100935
+ErnestModel,Grep,Original,27,0,0.42995222242026204
+GradientBoosting,Grep,Original,27,0,0.14704353515375532
+ErnestModel,Grep,Synthetic,27,1000,0.4308929210383167
+GradientBoosting,Grep,Synthetic,27,1000,0.1308884487445074
+ErnestModel,Grep,Original,30,0,0.3846203425387202
+GradientBoosting,Grep,Original,30,0,0.11710673897304412
+ErnestModel,Grep,Synthetic,30,1000,0.39054820318548156
+GradientBoosting,Grep,Synthetic,30,1000,0.10632684042362638
+ErnestModel,Grep,Original,33,0,0.37456044419703594
+GradientBoosting,Grep,Original,33,0,0.11261099577714792
+ErnestModel,Grep,Synthetic,33,1000,0.3782262050436944
+GradientBoosting,Grep,Synthetic,33,1000,0.11831473673629796
+ErnestModel,Grep,Original,3,0,0.4144951733778314
+GradientBoosting,Grep,Original,3,0,0.5523296766865938
+ErnestModel,Grep,Synthetic,3,1000,0.4158616904624053
+GradientBoosting,Grep,Synthetic,3,1000,0.5482413451446118
+ErnestModel,Grep,Original,6,0,0.4455979257310428
+GradientBoosting,Grep,Original,6,0,0.3540249213490778
+ErnestModel,Grep,Synthetic,6,1000,0.4356336478026179
+GradientBoosting,Grep,Synthetic,6,1000,0.3482678407295656
+ErnestModel,Grep,Original,9,0,0.384117861485377
+GradientBoosting,Grep,Original,9,0,0.6565661156222671
+ErnestModel,Grep,Synthetic,9,1000,0.37922075095320573
+GradientBoosting,Grep,Synthetic,9,1000,0.6177250646417977
+ErnestModel,Grep,Original,12,0,0.608586860343447
+GradientBoosting,Grep,Original,12,0,0.4292482385241516
+ErnestModel,Grep,Synthetic,12,1000,0.6218405917541332
+GradientBoosting,Grep,Synthetic,12,1000,0.4352515823563098
+ErnestModel,Grep,Original,15,0,0.4135804509920689
+GradientBoosting,Grep,Original,15,0,0.2171078109528657
+ErnestModel,Grep,Synthetic,15,1000,0.41184045163333594
+GradientBoosting,Grep,Synthetic,15,1000,0.22256585890976355
+ErnestModel,Grep,Original,18,0,0.37262789601625107
+GradientBoosting,Grep,Original,18,0,0.2081689967583556
+ErnestModel,Grep,Synthetic,18,1000,0.367615777662282
+GradientBoosting,Grep,Synthetic,18,1000,0.19420567090305138
+ErnestModel,Grep,Original,21,0,0.33839253904448074
+GradientBoosting,Grep,Original,21,0,0.11728205700780373
+ErnestModel,Grep,Synthetic,21,1000,0.3405074891875879
+GradientBoosting,Grep,Synthetic,21,1000,0.13848107301655463
+ErnestModel,Grep,Original,24,0,0.34971098111700205
+GradientBoosting,Grep,Original,24,0,0.13266827283903732
+ErnestModel,Grep,Synthetic,24,1000,0.34867492595322264
+GradientBoosting,Grep,Synthetic,24,1000,0.1352309820612452
+ErnestModel,Grep,Original,27,0,0.358292052450273
+GradientBoosting,Grep,Original,27,0,0.1108577902522628
+ErnestModel,Grep,Synthetic,27,1000,0.358696416545418
+GradientBoosting,Grep,Synthetic,27,1000,0.13788835311045827
+ErnestModel,Grep,Original,30,0,0.40656278943241586
+GradientBoosting,Grep,Original,30,0,0.14791645246924065
+ErnestModel,Grep,Synthetic,30,1000,0.4149415791469657
+GradientBoosting,Grep,Synthetic,30,1000,0.15938393333823214
+ErnestModel,Grep,Original,33,0,0.37879934603395515
+GradientBoosting,Grep,Original,33,0,0.09403568980901571
+ErnestModel,Grep,Synthetic,33,1000,0.3823534670733141
+GradientBoosting,Grep,Synthetic,33,1000,0.12174785560293622
+ErnestModel,Linear Regression,Original,3,0,0.3346552178671938
+GradientBoosting,Linear Regression,Original,3,0,0.31747361929640416
+ErnestModel,Linear Regression,Synthetic,3,1000,0.33659753771646256
+GradientBoosting,Linear Regression,Synthetic,3,1000,0.310102247903644
+ErnestModel,Linear Regression,Original,6,0,0.24137221689956068
+GradientBoosting,Linear Regression,Original,6,0,0.31049098714927403
+ErnestModel,Linear Regression,Synthetic,6,1000,0.24743933910856086
+GradientBoosting,Linear Regression,Synthetic,6,1000,0.32987909794506515
+ErnestModel,Linear Regression,Original,9,0,0.28372549403798836
+GradientBoosting,Linear Regression,Original,9,0,0.31071440531543976
+ErnestModel,Linear Regression,Synthetic,9,1000,0.2712366277867029
+GradientBoosting,Linear Regression,Synthetic,9,1000,0.31537461399202105
+ErnestModel,Linear Regression,Original,12,0,0.24630572952154703
+GradientBoosting,Linear Regression,Original,12,0,0.2555681212957768
+ErnestModel,Linear Regression,Synthetic,12,1000,0.2448063994355728
+GradientBoosting,Linear Regression,Synthetic,12,1000,0.24984360291334512
+ErnestModel,Linear Regression,Original,15,0,0.23292121023128673
+GradientBoosting,Linear Regression,Original,15,0,0.17328411355481319
+ErnestModel,Linear Regression,Synthetic,15,1000,0.2316758898023555
+GradientBoosting,Linear Regression,Synthetic,15,1000,0.17445942993326347
+ErnestModel,Linear Regression,Original,18,0,0.23406630866402192
+GradientBoosting,Linear Regression,Original,18,0,0.24737133920193355
+ErnestModel,Linear Regression,Synthetic,18,1000,0.23434349498754617
+GradientBoosting,Linear Regression,Synthetic,18,1000,0.25426264349068833
+ErnestModel,Linear Regression,Original,21,0,0.2189488655199787
+GradientBoosting,Linear Regression,Original,21,0,0.11992995152868642
+ErnestModel,Linear Regression,Synthetic,21,1000,0.22151517390624245
+GradientBoosting,Linear Regression,Synthetic,21,1000,0.1431383548691282
+ErnestModel,Linear Regression,Original,24,0,0.22653800740141608
+GradientBoosting,Linear Regression,Original,24,0,0.13063694525201278
+ErnestModel,Linear Regression,Synthetic,24,1000,0.22485421155798738
+GradientBoosting,Linear Regression,Synthetic,24,1000,0.12784853915342867
+ErnestModel,Linear Regression,Original,27,0,0.2151363537449179
+GradientBoosting,Linear Regression,Original,27,0,0.13137222267998197
+ErnestModel,Linear Regression,Synthetic,27,1000,0.21549358164286464
+GradientBoosting,Linear Regression,Synthetic,27,1000,0.14224158901440753
+ErnestModel,Linear Regression,Original,30,0,0.23417730817025745
+GradientBoosting,Linear Regression,Original,30,0,0.12311386364300972
+ErnestModel,Linear Regression,Synthetic,30,1000,0.23165784245342316
+GradientBoosting,Linear Regression,Synthetic,30,1000,0.14691807100229318
+ErnestModel,Linear Regression,Original,33,0,0.2364998587508837
+GradientBoosting,Linear Regression,Original,33,0,0.102794425756636
+ErnestModel,Linear Regression,Synthetic,33,1000,0.2386936624016108
+GradientBoosting,Linear Regression,Synthetic,33,1000,0.10186045163501595
+ErnestModel,Linear Regression,Original,3,0,0.3467092223153202
+GradientBoosting,Linear Regression,Original,3,0,0.3357861863256526
+ErnestModel,Linear Regression,Synthetic,3,1000,0.34421935557504546
+GradientBoosting,Linear Regression,Synthetic,3,1000,0.317107934726118
+ErnestModel,Linear Regression,Original,6,0,0.4978027458932086
+GradientBoosting,Linear Regression,Original,6,0,0.29791273508527155
+ErnestModel,Linear Regression,Synthetic,6,1000,0.48371695783157925
+GradientBoosting,Linear Regression,Synthetic,6,1000,0.29663280309181383
+ErnestModel,Linear Regression,Original,9,0,0.2189264194427647
+GradientBoosting,Linear Regression,Original,9,0,0.2613654751491494
+ErnestModel,Linear Regression,Synthetic,9,1000,0.2189787752635894
+GradientBoosting,Linear Regression,Synthetic,9,1000,0.22780950956783735
+ErnestModel,Linear Regression,Original,12,0,0.22252003856520236
+GradientBoosting,Linear Regression,Original,12,0,0.19832905369434395
+ErnestModel,Linear Regression,Synthetic,12,1000,0.22360146521076782
+GradientBoosting,Linear Regression,Synthetic,12,1000,0.19895125327164404
+ErnestModel,Linear Regression,Original,15,0,0.27462756508692715
+GradientBoosting,Linear Regression,Original,15,0,0.2717770646696187
+ErnestModel,Linear Regression,Synthetic,15,1000,0.26573759181890455
+GradientBoosting,Linear Regression,Synthetic,15,1000,0.27820891452033875
+ErnestModel,Linear Regression,Original,18,0,0.24305424478844445
+GradientBoosting,Linear Regression,Original,18,0,0.17768402975078562
+ErnestModel,Linear Regression,Synthetic,18,1000,0.24393070522863688
+GradientBoosting,Linear Regression,Synthetic,18,1000,0.18023593674719074
+ErnestModel,Linear Regression,Original,21,0,0.2221102300101225
+GradientBoosting,Linear Regression,Original,21,0,0.15835820740533474
+ErnestModel,Linear Regression,Synthetic,21,1000,0.2254762662395596
+GradientBoosting,Linear Regression,Synthetic,21,1000,0.1439337496695722
+ErnestModel,Linear Regression,Original,24,0,0.2330999547854699
+GradientBoosting,Linear Regression,Original,24,0,0.15529449169806664
+ErnestModel,Linear Regression,Synthetic,24,1000,0.23222283812582412
+GradientBoosting,Linear Regression,Synthetic,24,1000,0.16250814723125356
+ErnestModel,Linear Regression,Original,27,0,0.2204468935355162
+GradientBoosting,Linear Regression,Original,27,0,0.23479358948762935
+ErnestModel,Linear Regression,Synthetic,27,1000,0.2207938601619237
+GradientBoosting,Linear Regression,Synthetic,27,1000,0.3035272194693483
+ErnestModel,Linear Regression,Original,30,0,0.21676732225430195
+GradientBoosting,Linear Regression,Original,30,0,0.1344878674881725
+ErnestModel,Linear Regression,Synthetic,30,1000,0.2202749690101871
+GradientBoosting,Linear Regression,Synthetic,30,1000,0.16428733107135973
+ErnestModel,Linear Regression,Original,33,0,0.2212774224379446
+GradientBoosting,Linear Regression,Original,33,0,0.13944784964913393
+ErnestModel,Linear Regression,Synthetic,33,1000,0.2185405424941918
+GradientBoosting,Linear Regression,Synthetic,33,1000,0.14137079561302351
+ErnestModel,Linear Regression,Original,3,0,0.23580941440130165
+GradientBoosting,Linear Regression,Original,3,0,0.7066976889650398
+ErnestModel,Linear Regression,Synthetic,3,1000,0.22166754790962148
+GradientBoosting,Linear Regression,Synthetic,3,1000,0.5534585434134931
+ErnestModel,Linear Regression,Original,6,0,0.2812936795860539
+GradientBoosting,Linear Regression,Original,6,0,0.3204044970427464
+ErnestModel,Linear Regression,Synthetic,6,1000,0.26820043732469345
+GradientBoosting,Linear Regression,Synthetic,6,1000,0.3380771482915234
+ErnestModel,Linear Regression,Original,9,0,0.2171507602405871
+GradientBoosting,Linear Regression,Original,9,0,0.23111435913405204
+ErnestModel,Linear Regression,Synthetic,9,1000,0.21541887257841225
+GradientBoosting,Linear Regression,Synthetic,9,1000,0.26041546318137776
+ErnestModel,Linear Regression,Original,12,0,0.25061679764101286
+GradientBoosting,Linear Regression,Original,12,0,0.2893274937666438
+ErnestModel,Linear Regression,Synthetic,12,1000,0.2419743292300828
+GradientBoosting,Linear Regression,Synthetic,12,1000,0.2912532556117504
+ErnestModel,Linear Regression,Original,15,0,0.22477840257046097
+GradientBoosting,Linear Regression,Original,15,0,0.19040036124852133
+ErnestModel,Linear Regression,Synthetic,15,1000,0.22313888222847797
+GradientBoosting,Linear Regression,Synthetic,15,1000,0.19345849825893544
+ErnestModel,Linear Regression,Original,18,0,0.22180894436435547
+GradientBoosting,Linear Regression,Original,18,0,0.21623084402060383
+ErnestModel,Linear Regression,Synthetic,18,1000,0.22102509672782347
+GradientBoosting,Linear Regression,Synthetic,18,1000,0.18188809133170367
+ErnestModel,Linear Regression,Original,21,0,0.2469337536458464
+GradientBoosting,Linear Regression,Original,21,0,0.2092379344732788
+ErnestModel,Linear Regression,Synthetic,21,1000,0.2469026171647915
+GradientBoosting,Linear Regression,Synthetic,21,1000,0.20787333131535563
+ErnestModel,Linear Regression,Original,24,0,0.23471374588449773
+GradientBoosting,Linear Regression,Original,24,0,0.14094174071622184
+ErnestModel,Linear Regression,Synthetic,24,1000,0.23485196462847774
+GradientBoosting,Linear Regression,Synthetic,24,1000,0.16244836606982838
+ErnestModel,Linear Regression,Original,27,0,0.2878533802053182
+GradientBoosting,Linear Regression,Original,27,0,0.18413633894835738
+ErnestModel,Linear Regression,Synthetic,27,1000,0.2741240772315264
+GradientBoosting,Linear Regression,Synthetic,27,1000,0.18644131547153217
+ErnestModel,Linear Regression,Original,30,0,0.22085452641606035
+GradientBoosting,Linear Regression,Original,30,0,0.13680499338541127
+ErnestModel,Linear Regression,Synthetic,30,1000,0.2222925127154083
+GradientBoosting,Linear Regression,Synthetic,30,1000,0.14902113564806654
+ErnestModel,Linear Regression,Original,33,0,0.22571092965665948
+GradientBoosting,Linear Regression,Original,33,0,0.10123570666237554
+ErnestModel,Linear Regression,Synthetic,33,1000,0.22035979282220916
+GradientBoosting,Linear Regression,Synthetic,33,1000,0.10062749697631512
+ErnestModel,Linear Regression,Original,3,0,0.3684646247041188
+GradientBoosting,Linear Regression,Original,3,0,0.37796104542565995
+ErnestModel,Linear Regression,Synthetic,3,1000,0.3727253050770644
+GradientBoosting,Linear Regression,Synthetic,3,1000,0.38427604628404405
+ErnestModel,Linear Regression,Original,6,0,0.21465983514714468
+GradientBoosting,Linear Regression,Original,6,0,0.3905683592199614
+ErnestModel,Linear Regression,Synthetic,6,1000,0.21484468106593338
+GradientBoosting,Linear Regression,Synthetic,6,1000,0.35330486692238094
+ErnestModel,Linear Regression,Original,9,0,0.2235999032367734
+GradientBoosting,Linear Regression,Original,9,0,0.31907344313294583
+ErnestModel,Linear Regression,Synthetic,9,1000,0.2211210810938403
+GradientBoosting,Linear Regression,Synthetic,9,1000,0.3238389731996939
+ErnestModel,Linear Regression,Original,12,0,0.22938678363883408
+GradientBoosting,Linear Regression,Original,12,0,0.17881051954584665
+ErnestModel,Linear Regression,Synthetic,12,1000,0.22801006996442585
+GradientBoosting,Linear Regression,Synthetic,12,1000,0.19335368371105627
+ErnestModel,Linear Regression,Original,15,0,0.23779957014044475
+GradientBoosting,Linear Regression,Original,15,0,0.21491604527378566
+ErnestModel,Linear Regression,Synthetic,15,1000,0.23692499214355023
+GradientBoosting,Linear Regression,Synthetic,15,1000,0.2098780571069909
+ErnestModel,Linear Regression,Original,18,0,0.2758664512829455
+GradientBoosting,Linear Regression,Original,18,0,0.2501694202507574
+ErnestModel,Linear Regression,Synthetic,18,1000,0.28862034535605496
+GradientBoosting,Linear Regression,Synthetic,18,1000,0.31293806572797295
+ErnestModel,Linear Regression,Original,21,0,0.2283361669150476
+GradientBoosting,Linear Regression,Original,21,0,0.12115441048980297
+ErnestModel,Linear Regression,Synthetic,21,1000,0.2245705721938723
+GradientBoosting,Linear Regression,Synthetic,21,1000,0.1433427054379637
+ErnestModel,Linear Regression,Original,24,0,0.23975075420649278
+GradientBoosting,Linear Regression,Original,24,0,0.1372531433394665
+ErnestModel,Linear Regression,Synthetic,24,1000,0.24427251165622385
+GradientBoosting,Linear Regression,Synthetic,24,1000,0.12327506298223397
+ErnestModel,Linear Regression,Original,27,0,0.21006952100465262
+GradientBoosting,Linear Regression,Original,27,0,0.14885038826685254
+ErnestModel,Linear Regression,Synthetic,27,1000,0.21068050796820642
+GradientBoosting,Linear Regression,Synthetic,27,1000,0.17466341307440042
+ErnestModel,Linear Regression,Original,30,0,0.22711076689732462
+GradientBoosting,Linear Regression,Original,30,0,0.14824912511373214
+ErnestModel,Linear Regression,Synthetic,30,1000,0.2243772947516584
+GradientBoosting,Linear Regression,Synthetic,30,1000,0.1239253603311849
+ErnestModel,Linear Regression,Original,33,0,0.2304896945259838
+GradientBoosting,Linear Regression,Original,33,0,0.09847958358079466
+ErnestModel,Linear Regression,Synthetic,33,1000,0.23779729154032409
+GradientBoosting,Linear Regression,Synthetic,33,1000,0.0958638308493271
+ErnestModel,Linear Regression,Original,3,0,0.2996240314867924
+GradientBoosting,Linear Regression,Original,3,0,0.38294984885004135
+ErnestModel,Linear Regression,Synthetic,3,1000,0.28765890342192024
+GradientBoosting,Linear Regression,Synthetic,3,1000,0.4179743641147726
+ErnestModel,Linear Regression,Original,6,0,0.2404582831222116
+GradientBoosting,Linear Regression,Original,6,0,0.3099757062526195
+ErnestModel,Linear Regression,Synthetic,6,1000,0.24009319203137053
+GradientBoosting,Linear Regression,Synthetic,6,1000,0.2978005248550423
+ErnestModel,Linear Regression,Original,9,0,0.23956817946014425
+GradientBoosting,Linear Regression,Original,9,0,0.22289052506244134
+ErnestModel,Linear Regression,Synthetic,9,1000,0.240281123625543
+GradientBoosting,Linear Regression,Synthetic,9,1000,0.23297267737463517
+ErnestModel,Linear Regression,Original,12,0,0.23635815569024385
+GradientBoosting,Linear Regression,Original,12,0,0.6173025258226679
+ErnestModel,Linear Regression,Synthetic,12,1000,0.23596720698243573
+GradientBoosting,Linear Regression,Synthetic,12,1000,0.3267552213288306
+ErnestModel,Linear Regression,Original,15,0,0.22108977007288771
+GradientBoosting,Linear Regression,Original,15,0,0.19636532905987789
+ErnestModel,Linear Regression,Synthetic,15,1000,0.2299769783632084
+GradientBoosting,Linear Regression,Synthetic,15,1000,0.20106179571470953
+ErnestModel,Linear Regression,Original,18,0,0.2156392401608546
+GradientBoosting,Linear Regression,Original,18,0,0.15593690019491468
+ErnestModel,Linear Regression,Synthetic,18,1000,0.21568540396789093
+GradientBoosting,Linear Regression,Synthetic,18,1000,0.1870352856569549
+ErnestModel,Linear Regression,Original,21,0,0.21935866856072364
+GradientBoosting,Linear Regression,Original,21,0,0.1695632329857942
+ErnestModel,Linear Regression,Synthetic,21,1000,0.21893677893779298
+GradientBoosting,Linear Regression,Synthetic,21,1000,0.19556588718740747
+ErnestModel,Linear Regression,Original,24,0,0.22543291941493357
+GradientBoosting,Linear Regression,Original,24,0,0.15249775148870806
+ErnestModel,Linear Regression,Synthetic,24,1000,0.2367973840351512
+GradientBoosting,Linear Regression,Synthetic,24,1000,0.14010516108914653
+ErnestModel,Linear Regression,Original,27,0,0.2182283514974203
+GradientBoosting,Linear Regression,Original,27,0,0.08719934914745407
+ErnestModel,Linear Regression,Synthetic,27,1000,0.22018215692272747
+GradientBoosting,Linear Regression,Synthetic,27,1000,0.10067836437402133
+ErnestModel,Linear Regression,Original,30,0,0.22266314067577914
+GradientBoosting,Linear Regression,Original,30,0,0.12190930851637337
+ErnestModel,Linear Regression,Synthetic,30,1000,0.2258034674740045
+GradientBoosting,Linear Regression,Synthetic,30,1000,0.1305999213402741
+ErnestModel,Linear Regression,Original,33,0,0.22190607583532299
+GradientBoosting,Linear Regression,Original,33,0,0.12213054699668986
+ErnestModel,Linear Regression,Synthetic,33,1000,0.22114915520997822
+GradientBoosting,Linear Regression,Synthetic,33,1000,0.14586826897235072
+ErnestModel,Linear Regression,Original,3,0,0.3237797970549824
+GradientBoosting,Linear Regression,Original,3,0,0.38003202913265594
+ErnestModel,Linear Regression,Synthetic,3,1000,0.32094957381978323
+GradientBoosting,Linear Regression,Synthetic,3,1000,0.3344521022457778
+ErnestModel,Linear Regression,Original,6,0,0.23422773452622722
+GradientBoosting,Linear Regression,Original,6,0,0.27785301246543076
+ErnestModel,Linear Regression,Synthetic,6,1000,0.22699117905762753
+GradientBoosting,Linear Regression,Synthetic,6,1000,0.25136071964587964
+ErnestModel,Linear Regression,Original,9,0,0.2372632859849118
+GradientBoosting,Linear Regression,Original,9,0,0.28836204133023946
+ErnestModel,Linear Regression,Synthetic,9,1000,0.2342937888542808
+GradientBoosting,Linear Regression,Synthetic,9,1000,0.28222118990854894
+ErnestModel,Linear Regression,Original,12,0,0.2487398160199754
+GradientBoosting,Linear Regression,Original,12,0,0.2553352935070551
+ErnestModel,Linear Regression,Synthetic,12,1000,0.24742190512984627
+GradientBoosting,Linear Regression,Synthetic,12,1000,0.2300937637040403
+ErnestModel,Linear Regression,Original,15,0,0.21236025914550177
+GradientBoosting,Linear Regression,Original,15,0,0.2279014115775087
+ErnestModel,Linear Regression,Synthetic,15,1000,0.21170201177683728
+GradientBoosting,Linear Regression,Synthetic,15,1000,0.22921531351077068
+ErnestModel,Linear Regression,Original,18,0,0.21429399831771073
+GradientBoosting,Linear Regression,Original,18,0,0.2810861304521021
+ErnestModel,Linear Regression,Synthetic,18,1000,0.21509559202325257
+GradientBoosting,Linear Regression,Synthetic,18,1000,0.2945914066721155
+ErnestModel,Linear Regression,Original,21,0,0.2134471739955259
+GradientBoosting,Linear Regression,Original,21,0,0.1517970861990399
+ErnestModel,Linear Regression,Synthetic,21,1000,0.21323629907157882
+GradientBoosting,Linear Regression,Synthetic,21,1000,0.16916532984737995
+ErnestModel,Linear Regression,Original,24,0,0.22666319319126563
+GradientBoosting,Linear Regression,Original,24,0,0.13960347346673868
+ErnestModel,Linear Regression,Synthetic,24,1000,0.22438004776288453
+GradientBoosting,Linear Regression,Synthetic,24,1000,0.14164503533064535
+ErnestModel,Linear Regression,Original,27,0,0.2193817084470254
+GradientBoosting,Linear Regression,Original,27,0,0.10888866714450962
+ErnestModel,Linear Regression,Synthetic,27,1000,0.2177926410637127
+GradientBoosting,Linear Regression,Synthetic,27,1000,0.12252583992661745
+ErnestModel,Linear Regression,Original,30,0,0.26464287206030285
+GradientBoosting,Linear Regression,Original,30,0,0.11903886016853386
+ErnestModel,Linear Regression,Synthetic,30,1000,0.26299929839097486
+GradientBoosting,Linear Regression,Synthetic,30,1000,0.13018040953518809
+ErnestModel,Linear Regression,Original,33,0,0.25607952741280493
+GradientBoosting,Linear Regression,Original,33,0,0.18787896666883547
+ErnestModel,Linear Regression,Synthetic,33,1000,0.25606006622285454
+GradientBoosting,Linear Regression,Synthetic,33,1000,0.19068111025974402
+ErnestModel,Linear Regression,Original,3,0,0.309872506994174
+GradientBoosting,Linear Regression,Original,3,0,0.26925909744049387
+ErnestModel,Linear Regression,Synthetic,3,1000,0.32463461451381265
+GradientBoosting,Linear Regression,Synthetic,3,1000,0.27426688233104396
+ErnestModel,Linear Regression,Original,6,0,0.5009961879739765
+GradientBoosting,Linear Regression,Original,6,0,0.2812988668427602
+ErnestModel,Linear Regression,Synthetic,6,1000,0.4920096407462634
+GradientBoosting,Linear Regression,Synthetic,6,1000,0.28790396609066643
+ErnestModel,Linear Regression,Original,9,0,0.2812602959929939
+GradientBoosting,Linear Regression,Original,9,0,0.19767836802487312
+ErnestModel,Linear Regression,Synthetic,9,1000,0.2700999256474206
+GradientBoosting,Linear Regression,Synthetic,9,1000,0.20375270265747492
+ErnestModel,Linear Regression,Original,12,0,0.239033341607081
+GradientBoosting,Linear Regression,Original,12,0,0.4927742448278001
+ErnestModel,Linear Regression,Synthetic,12,1000,0.2420781202582297
+GradientBoosting,Linear Regression,Synthetic,12,1000,0.3383546712862419
+ErnestModel,Linear Regression,Original,15,0,0.26487432206193473
+GradientBoosting,Linear Regression,Original,15,0,0.26581596664918705
+ErnestModel,Linear Regression,Synthetic,15,1000,0.2555624057623948
+GradientBoosting,Linear Regression,Synthetic,15,1000,0.2537930983041227
+ErnestModel,Linear Regression,Original,18,0,0.2444682018219103
+GradientBoosting,Linear Regression,Original,18,0,0.15691403311005928
+ErnestModel,Linear Regression,Synthetic,18,1000,0.24621094130541815
+GradientBoosting,Linear Regression,Synthetic,18,1000,0.18408209734209396
+ErnestModel,Linear Regression,Original,21,0,0.23844570891379524
+GradientBoosting,Linear Regression,Original,21,0,0.1363444014302707
+ErnestModel,Linear Regression,Synthetic,21,1000,0.24037268773265347
+GradientBoosting,Linear Regression,Synthetic,21,1000,0.14638265913433826
+ErnestModel,Linear Regression,Original,24,0,0.23320909336020035
+GradientBoosting,Linear Regression,Original,24,0,0.16636565671183626
+ErnestModel,Linear Regression,Synthetic,24,1000,0.2337547948008182
+GradientBoosting,Linear Regression,Synthetic,24,1000,0.18619651602506473
+ErnestModel,Linear Regression,Original,27,0,0.2239430714728519
+GradientBoosting,Linear Regression,Original,27,0,0.13636903304209994
+ErnestModel,Linear Regression,Synthetic,27,1000,0.2237669308444062
+GradientBoosting,Linear Regression,Synthetic,27,1000,0.13433294505325816
+ErnestModel,Linear Regression,Original,30,0,0.21558311982077677
+GradientBoosting,Linear Regression,Original,30,0,0.13703796093772974
+ErnestModel,Linear Regression,Synthetic,30,1000,0.21535227051899838
+GradientBoosting,Linear Regression,Synthetic,30,1000,0.11718787856668134
+ErnestModel,Linear Regression,Original,33,0,0.22536607630671093
+GradientBoosting,Linear Regression,Original,33,0,0.11116436174082638
+ErnestModel,Linear Regression,Synthetic,33,1000,0.22583734823108195
+GradientBoosting,Linear Regression,Synthetic,33,1000,0.11470470873716555
+ErnestModel,Linear Regression,Original,3,0,0.4076079544379628
+GradientBoosting,Linear Regression,Original,3,0,0.49147270585213576
+ErnestModel,Linear Regression,Synthetic,3,1000,0.41323141088909787
+GradientBoosting,Linear Regression,Synthetic,3,1000,0.4790928758753241
+ErnestModel,Linear Regression,Original,6,0,0.309388589299915
+GradientBoosting,Linear Regression,Original,6,0,0.3981017361567847
+ErnestModel,Linear Regression,Synthetic,6,1000,0.3039768418110315
+GradientBoosting,Linear Regression,Synthetic,6,1000,0.4160381817138298
+ErnestModel,Linear Regression,Original,9,0,0.22009660885325816
+GradientBoosting,Linear Regression,Original,9,0,0.3120456397788577
+ErnestModel,Linear Regression,Synthetic,9,1000,0.21881194329275463
+GradientBoosting,Linear Regression,Synthetic,9,1000,0.2738393557604625
+ErnestModel,Linear Regression,Original,12,0,0.23030684272742283
+GradientBoosting,Linear Regression,Original,12,0,0.24923311872431753
+ErnestModel,Linear Regression,Synthetic,12,1000,0.231043064088916
+GradientBoosting,Linear Regression,Synthetic,12,1000,0.23917649293913362
+ErnestModel,Linear Regression,Original,15,0,0.23813608155605764
+GradientBoosting,Linear Regression,Original,15,0,0.24464550784305267
+ErnestModel,Linear Regression,Synthetic,15,1000,0.2373322626863069
+GradientBoosting,Linear Regression,Synthetic,15,1000,0.24650377524024517
+ErnestModel,Linear Regression,Original,18,0,0.22658278648961108
+GradientBoosting,Linear Regression,Original,18,0,0.21376468772808666
+ErnestModel,Linear Regression,Synthetic,18,1000,0.22600100638578888
+GradientBoosting,Linear Regression,Synthetic,18,1000,0.2262734118547594
+ErnestModel,Linear Regression,Original,21,0,0.219295257651074
+GradientBoosting,Linear Regression,Original,21,0,0.17251325084666827
+ErnestModel,Linear Regression,Synthetic,21,1000,0.21826958448987363
+GradientBoosting,Linear Regression,Synthetic,21,1000,0.17826404789004446
+ErnestModel,Linear Regression,Original,24,0,0.2214558821009701
+GradientBoosting,Linear Regression,Original,24,0,0.13767782001156367
+ErnestModel,Linear Regression,Synthetic,24,1000,0.2220800220557617
+GradientBoosting,Linear Regression,Synthetic,24,1000,0.16537952332852968
+ErnestModel,Linear Regression,Original,27,0,0.2131899624784397
+GradientBoosting,Linear Regression,Original,27,0,0.13720559564547993
+ErnestModel,Linear Regression,Synthetic,27,1000,0.21381236891886599
+GradientBoosting,Linear Regression,Synthetic,27,1000,0.13485158445981185
+ErnestModel,Linear Regression,Original,30,0,0.25309463273785826
+GradientBoosting,Linear Regression,Original,30,0,0.13989654610775623
+ErnestModel,Linear Regression,Synthetic,30,1000,0.24936248427678973
+GradientBoosting,Linear Regression,Synthetic,30,1000,0.15280466065840223
+ErnestModel,Linear Regression,Original,33,0,0.2118723989863236
+GradientBoosting,Linear Regression,Original,33,0,0.13135161768890036
+ErnestModel,Linear Regression,Synthetic,33,1000,0.21169670790562226
+GradientBoosting,Linear Regression,Synthetic,33,1000,0.13402854231201858
+ErnestModel,Linear Regression,Original,3,0,0.4280851823171316
+GradientBoosting,Linear Regression,Original,3,0,0.3229844729944414
+ErnestModel,Linear Regression,Synthetic,3,1000,0.428565236785636
+GradientBoosting,Linear Regression,Synthetic,3,1000,0.32195223835057857
+ErnestModel,Linear Regression,Original,6,0,0.21592923921776905
+GradientBoosting,Linear Regression,Original,6,0,0.24745360189346186
+ErnestModel,Linear Regression,Synthetic,6,1000,0.2182203758266339
+GradientBoosting,Linear Regression,Synthetic,6,1000,0.26089821982345385
+ErnestModel,Linear Regression,Original,9,0,0.21925487461275175
+GradientBoosting,Linear Regression,Original,9,0,0.2370427430574101
+ErnestModel,Linear Regression,Synthetic,9,1000,0.21908209756511915
+GradientBoosting,Linear Regression,Synthetic,9,1000,0.2277609874418146
+ErnestModel,Linear Regression,Original,12,0,0.23036295858655848
+GradientBoosting,Linear Regression,Original,12,0,0.2745403831297365
+ErnestModel,Linear Regression,Synthetic,12,1000,0.2326105184749063
+GradientBoosting,Linear Regression,Synthetic,12,1000,0.22631764385697714
+ErnestModel,Linear Regression,Original,15,0,0.24742126725375935
+GradientBoosting,Linear Regression,Original,15,0,0.25329822157720483
+ErnestModel,Linear Regression,Synthetic,15,1000,0.25833837588135433
+GradientBoosting,Linear Regression,Synthetic,15,1000,0.26693317380869724
+ErnestModel,Linear Regression,Original,18,0,0.22303046963754056
+GradientBoosting,Linear Regression,Original,18,0,0.1819168785861765
+ErnestModel,Linear Regression,Synthetic,18,1000,0.22121977560379946
+GradientBoosting,Linear Regression,Synthetic,18,1000,0.18576720519741857
+ErnestModel,Linear Regression,Original,21,0,0.25130508782306316
+GradientBoosting,Linear Regression,Original,21,0,0.14482837461142037
+ErnestModel,Linear Regression,Synthetic,21,1000,0.2510157570691365
+GradientBoosting,Linear Regression,Synthetic,21,1000,0.1485936823987011
+ErnestModel,Linear Regression,Original,24,0,0.21644624348752348
+GradientBoosting,Linear Regression,Original,24,0,0.17046870337246384
+ErnestModel,Linear Regression,Synthetic,24,1000,0.21755834582207215
+GradientBoosting,Linear Regression,Synthetic,24,1000,0.17564402492679032
+ErnestModel,Linear Regression,Original,27,0,0.20799198703852348
+GradientBoosting,Linear Regression,Original,27,0,0.1351384081289267
+ErnestModel,Linear Regression,Synthetic,27,1000,0.20814813106518817
+GradientBoosting,Linear Regression,Synthetic,27,1000,0.14026601053924834
+ErnestModel,Linear Regression,Original,30,0,0.21079555029185243
+GradientBoosting,Linear Regression,Original,30,0,0.1749006195461323
+ErnestModel,Linear Regression,Synthetic,30,1000,0.21431176368338142
+GradientBoosting,Linear Regression,Synthetic,30,1000,0.17976996128458597
+ErnestModel,Linear Regression,Original,33,0,0.23813456009784556
+GradientBoosting,Linear Regression,Original,33,0,0.09200584600820925
+ErnestModel,Linear Regression,Synthetic,33,1000,0.23410808412734838
+GradientBoosting,Linear Regression,Synthetic,33,1000,0.1147159143459319
+ErnestModel,Linear Regression,Original,3,0,0.3143072483200323
+GradientBoosting,Linear Regression,Original,3,0,0.3465657678150996
+ErnestModel,Linear Regression,Synthetic,3,1000,0.3254601741666552
+GradientBoosting,Linear Regression,Synthetic,3,1000,0.36990334440772304
+ErnestModel,Linear Regression,Original,6,0,0.2886810357669611
+GradientBoosting,Linear Regression,Original,6,0,0.30881265784804157
+ErnestModel,Linear Regression,Synthetic,6,1000,0.2889946757954664
+GradientBoosting,Linear Regression,Synthetic,6,1000,0.341273240672523
+ErnestModel,Linear Regression,Original,9,0,0.2416764390263994
+GradientBoosting,Linear Regression,Original,9,0,0.3010507153406229
+ErnestModel,Linear Regression,Synthetic,9,1000,0.2420239694304762
+GradientBoosting,Linear Regression,Synthetic,9,1000,0.31724250155073197
+ErnestModel,Linear Regression,Original,12,0,0.21567106989917278
+GradientBoosting,Linear Regression,Original,12,0,0.255852285597566
+ErnestModel,Linear Regression,Synthetic,12,1000,0.21270629562633128
+GradientBoosting,Linear Regression,Synthetic,12,1000,0.2489202447094432
+ErnestModel,Linear Regression,Original,15,0,0.23683243108251584
+GradientBoosting,Linear Regression,Original,15,0,0.22893998560077472
+ErnestModel,Linear Regression,Synthetic,15,1000,0.23795365247778374
+GradientBoosting,Linear Regression,Synthetic,15,1000,0.2329336062685315
+ErnestModel,Linear Regression,Original,18,0,0.25506320098205826
+GradientBoosting,Linear Regression,Original,18,0,0.1579711758895584
+ErnestModel,Linear Regression,Synthetic,18,1000,0.2537120009259012
+GradientBoosting,Linear Regression,Synthetic,18,1000,0.18502159883445646
+ErnestModel,Linear Regression,Original,21,0,0.2239539021540133
+GradientBoosting,Linear Regression,Original,21,0,0.16417146188329354
+ErnestModel,Linear Regression,Synthetic,21,1000,0.2244829513863256
+GradientBoosting,Linear Regression,Synthetic,21,1000,0.1540057089215107
+ErnestModel,Linear Regression,Original,24,0,0.23186677412605425
+GradientBoosting,Linear Regression,Original,24,0,0.21755651933558595
+ErnestModel,Linear Regression,Synthetic,24,1000,0.23341829069914038
+GradientBoosting,Linear Regression,Synthetic,24,1000,0.21996599440181686
+ErnestModel,Linear Regression,Original,27,0,0.208372972790705
+GradientBoosting,Linear Regression,Original,27,0,0.1481521420060726
+ErnestModel,Linear Regression,Synthetic,27,1000,0.2082604202032033
+GradientBoosting,Linear Regression,Synthetic,27,1000,0.15772447011858895
+ErnestModel,Linear Regression,Original,30,0,0.2155659676899943
+GradientBoosting,Linear Regression,Original,30,0,0.18902634852728364
+ErnestModel,Linear Regression,Synthetic,30,1000,0.21594950603994262
+GradientBoosting,Linear Regression,Synthetic,30,1000,0.18574795485259288
+ErnestModel,Linear Regression,Original,33,0,0.22505522766502936
+GradientBoosting,Linear Regression,Original,33,0,0.0999503692869758
+ErnestModel,Linear Regression,Synthetic,33,1000,0.22801484342556574
+GradientBoosting,Linear Regression,Synthetic,33,1000,0.12278630394434402
+ErnestModel,K-Means,Original,3,0,0.39277472170481303
+GradientBoosting,K-Means,Original,3,0,0.4378169386457505
+ErnestModel,K-Means,Synthetic,3,1000,0.3929792011227838
+GradientBoosting,K-Means,Synthetic,3,1000,0.2596173918715914
+ErnestModel,K-Means,Original,6,0,0.15467821138775942
+GradientBoosting,K-Means,Original,6,0,0.3277278388991382
+ErnestModel,K-Means,Synthetic,6,1000,0.15046339274464857
+GradientBoosting,K-Means,Synthetic,6,1000,0.32182762178854496
+ErnestModel,K-Means,Original,9,0,0.16041294995040736
+GradientBoosting,K-Means,Original,9,0,0.18886919421443646
+ErnestModel,K-Means,Synthetic,9,1000,0.16196014585482058
+GradientBoosting,K-Means,Synthetic,9,1000,0.17184683816427465
+ErnestModel,K-Means,Original,12,0,0.18568942487305934
+GradientBoosting,K-Means,Original,12,0,0.18099899294619962
+ErnestModel,K-Means,Synthetic,12,1000,0.19035528958283882
+GradientBoosting,K-Means,Synthetic,12,1000,0.1877377893940399
+ErnestModel,K-Means,Original,15,0,0.15441194373753012
+GradientBoosting,K-Means,Original,15,0,0.16002744521970994
+ErnestModel,K-Means,Synthetic,15,1000,0.1511216303185225
+GradientBoosting,K-Means,Synthetic,15,1000,0.16150577973227034
+ErnestModel,K-Means,Original,18,0,0.13701182544877435
+GradientBoosting,K-Means,Original,18,0,0.163189977236676
+ErnestModel,K-Means,Synthetic,18,1000,0.1386067378525006
+GradientBoosting,K-Means,Synthetic,18,1000,0.15496039146404728
+ErnestModel,K-Means,Original,21,0,0.1719139262002371
+GradientBoosting,K-Means,Original,21,0,0.13618298730104933
+ErnestModel,K-Means,Synthetic,21,1000,0.17013342509619883
+GradientBoosting,K-Means,Synthetic,21,1000,0.14114044512780743
+ErnestModel,K-Means,Original,24,0,0.15450853880135285
+GradientBoosting,K-Means,Original,24,0,0.13179842267069009
+ErnestModel,K-Means,Synthetic,24,1000,0.15115533597804648
+GradientBoosting,K-Means,Synthetic,24,1000,0.12954495750169975
+ErnestModel,K-Means,Original,27,0,0.1720912752805427
+GradientBoosting,K-Means,Original,27,0,0.12350176898017984
+ErnestModel,K-Means,Synthetic,27,1000,0.16879646401873794
+GradientBoosting,K-Means,Synthetic,27,1000,0.13405786195748992
+ErnestModel,K-Means,Original,30,0,0.15338889046588344
+GradientBoosting,K-Means,Original,30,0,0.127960890382536
+ErnestModel,K-Means,Synthetic,30,1000,0.14725546331593187
+GradientBoosting,K-Means,Synthetic,30,1000,0.12362530170330226
+ErnestModel,K-Means,Original,33,0,0.14683812147188688
+GradientBoosting,K-Means,Original,33,0,0.07956734423226176
+ErnestModel,K-Means,Synthetic,33,1000,0.14206697567343457
+GradientBoosting,K-Means,Synthetic,33,1000,0.09791148256738645
+ErnestModel,K-Means,Original,3,0,0.1902898147320169
+GradientBoosting,K-Means,Original,3,0,0.3449925264968248
+ErnestModel,K-Means,Synthetic,3,1000,0.18652571756188996
+GradientBoosting,K-Means,Synthetic,3,1000,0.32134440402196374
+ErnestModel,K-Means,Original,6,0,0.1453654347770858
+GradientBoosting,K-Means,Original,6,0,0.25354793166910733
+ErnestModel,K-Means,Synthetic,6,1000,0.1415218003969532
+GradientBoosting,K-Means,Synthetic,6,1000,0.24402953792376345
+ErnestModel,K-Means,Original,9,0,0.15572690944285444
+GradientBoosting,K-Means,Original,9,0,0.16113220306964532
+ErnestModel,K-Means,Synthetic,9,1000,0.15928304664900705
+GradientBoosting,K-Means,Synthetic,9,1000,0.16816561829937826
+ErnestModel,K-Means,Original,12,0,0.14706864363381933
+GradientBoosting,K-Means,Original,12,0,0.21116543900200008
+ErnestModel,K-Means,Synthetic,12,1000,0.14919107841150656
+GradientBoosting,K-Means,Synthetic,12,1000,0.23273493892428426
+ErnestModel,K-Means,Original,15,0,0.14884156656880732
+GradientBoosting,K-Means,Original,15,0,0.13629170955532285
+ErnestModel,K-Means,Synthetic,15,1000,0.14774528521403374
+GradientBoosting,K-Means,Synthetic,15,1000,0.1465014568659898
+ErnestModel,K-Means,Original,18,0,0.13534687817043092
+GradientBoosting,K-Means,Original,18,0,0.14476549080022919
+ErnestModel,K-Means,Synthetic,18,1000,0.13595720049968885
+GradientBoosting,K-Means,Synthetic,18,1000,0.13987491291380585
+ErnestModel,K-Means,Original,21,0,0.16709024496078112
+GradientBoosting,K-Means,Original,21,0,0.13044167790266778
+ErnestModel,K-Means,Synthetic,21,1000,0.1731451015160712
+GradientBoosting,K-Means,Synthetic,21,1000,0.1379609913430408
+ErnestModel,K-Means,Original,24,0,0.1508303730867644
+GradientBoosting,K-Means,Original,24,0,0.162844138124491
+ErnestModel,K-Means,Synthetic,24,1000,0.14981984819061162
+GradientBoosting,K-Means,Synthetic,24,1000,0.16554662690330574
+ErnestModel,K-Means,Original,27,0,0.14571177157593065
+GradientBoosting,K-Means,Original,27,0,0.13659594816537796
+ErnestModel,K-Means,Synthetic,27,1000,0.14494612951234265
+GradientBoosting,K-Means,Synthetic,27,1000,0.13152645285277517
+ErnestModel,K-Means,Original,30,0,0.17138536806036206
+GradientBoosting,K-Means,Original,30,0,0.11032019253344928
+ErnestModel,K-Means,Synthetic,30,1000,0.16404784843024003
+GradientBoosting,K-Means,Synthetic,30,1000,0.11760783735714395
+ErnestModel,K-Means,Original,33,0,0.1558412334134463
+GradientBoosting,K-Means,Original,33,0,0.08260450044878768
+ErnestModel,K-Means,Synthetic,33,1000,0.15583592243095676
+GradientBoosting,K-Means,Synthetic,33,1000,0.0990434788487712
+ErnestModel,K-Means,Original,3,0,0.16052453319466253
+GradientBoosting,K-Means,Original,3,0,0.24971284842101443
+ErnestModel,K-Means,Synthetic,3,1000,0.16054522621522502
+GradientBoosting,K-Means,Synthetic,3,1000,0.24229456637612146
+ErnestModel,K-Means,Original,6,0,0.27275842273575346
+GradientBoosting,K-Means,Original,6,0,0.22019555690155965
+ErnestModel,K-Means,Synthetic,6,1000,0.2712796075641334
+GradientBoosting,K-Means,Synthetic,6,1000,0.23683518065350553
+ErnestModel,K-Means,Original,9,0,0.1839085184067426
+GradientBoosting,K-Means,Original,9,0,0.20794857977002976
+ErnestModel,K-Means,Synthetic,9,1000,0.18053641144770158
+GradientBoosting,K-Means,Synthetic,9,1000,0.1944576406253501
+ErnestModel,K-Means,Original,12,0,0.15440592648164286
+GradientBoosting,K-Means,Original,12,0,0.2475409078263654
+ErnestModel,K-Means,Synthetic,12,1000,0.1539396966693389
+GradientBoosting,K-Means,Synthetic,12,1000,0.2544393626180096
+ErnestModel,K-Means,Original,15,0,0.1609012363983129
+GradientBoosting,K-Means,Original,15,0,0.15174239020074695
+ErnestModel,K-Means,Synthetic,15,1000,0.16254506234084243
+GradientBoosting,K-Means,Synthetic,15,1000,0.16273827664754387
+ErnestModel,K-Means,Original,18,0,0.15903146880632701
+GradientBoosting,K-Means,Original,18,0,0.18400775053720025
+ErnestModel,K-Means,Synthetic,18,1000,0.15780181542309066
+GradientBoosting,K-Means,Synthetic,18,1000,0.18267726476544663
+ErnestModel,K-Means,Original,21,0,0.18239387752425804
+GradientBoosting,K-Means,Original,21,0,0.1790486041348144
+ErnestModel,K-Means,Synthetic,21,1000,0.1825832061829821
+GradientBoosting,K-Means,Synthetic,21,1000,0.1897073402624991
+ErnestModel,K-Means,Original,24,0,0.15659834295857888
+GradientBoosting,K-Means,Original,24,0,0.12013178055230644
+ErnestModel,K-Means,Synthetic,24,1000,0.15397993968204185
+GradientBoosting,K-Means,Synthetic,24,1000,0.13039138373945794
+ErnestModel,K-Means,Original,27,0,0.1407024956445828
+GradientBoosting,K-Means,Original,27,0,0.12856275864484473
+ErnestModel,K-Means,Synthetic,27,1000,0.14220916455278496
+GradientBoosting,K-Means,Synthetic,27,1000,0.13843612965373858
+ErnestModel,K-Means,Original,30,0,0.16594905320198533
+GradientBoosting,K-Means,Original,30,0,0.07893796940106804
+ErnestModel,K-Means,Synthetic,30,1000,0.16503803486386145
+GradientBoosting,K-Means,Synthetic,30,1000,0.06654828163448971
+ErnestModel,K-Means,Original,33,0,0.15761031349310822
+GradientBoosting,K-Means,Original,33,0,0.10830782611297386
+ErnestModel,K-Means,Synthetic,33,1000,0.14783849669701413
+GradientBoosting,K-Means,Synthetic,33,1000,0.09927229196056171
+ErnestModel,K-Means,Original,3,0,0.1816012647121872
+GradientBoosting,K-Means,Original,3,0,1.035890264164517
+ErnestModel,K-Means,Synthetic,3,1000,0.18029800764322484
+GradientBoosting,K-Means,Synthetic,3,1000,1.0552952183727125
+ErnestModel,K-Means,Original,6,0,0.17747239192666317
+GradientBoosting,K-Means,Original,6,0,0.17993269850410346
+ErnestModel,K-Means,Synthetic,6,1000,0.16899966255189475
+GradientBoosting,K-Means,Synthetic,6,1000,0.1820898837670803
+ErnestModel,K-Means,Original,9,0,0.15146364944827007
+GradientBoosting,K-Means,Original,9,0,0.19387304205056025
+ErnestModel,K-Means,Synthetic,9,1000,0.14836916135559228
+GradientBoosting,K-Means,Synthetic,9,1000,0.1990110703389066
+ErnestModel,K-Means,Original,12,0,0.21960431470809633
+GradientBoosting,K-Means,Original,12,0,0.16576757976350565
+ErnestModel,K-Means,Synthetic,12,1000,0.22512191430160486
+GradientBoosting,K-Means,Synthetic,12,1000,0.1625610828934004
+ErnestModel,K-Means,Original,15,0,0.15899407437986468
+GradientBoosting,K-Means,Original,15,0,0.1720166390377689
+ErnestModel,K-Means,Synthetic,15,1000,0.16342994902950228
+GradientBoosting,K-Means,Synthetic,15,1000,0.17565546160006676
+ErnestModel,K-Means,Original,18,0,0.15291144055894865
+GradientBoosting,K-Means,Original,18,0,0.11419871950604386
+ErnestModel,K-Means,Synthetic,18,1000,0.15532522503484159
+GradientBoosting,K-Means,Synthetic,18,1000,0.11664304405869505
+ErnestModel,K-Means,Original,21,0,0.15490716102847515
+GradientBoosting,K-Means,Original,21,0,0.14993714168207953
+ErnestModel,K-Means,Synthetic,21,1000,0.147756305445282
+GradientBoosting,K-Means,Synthetic,21,1000,0.1489803929723867
+ErnestModel,K-Means,Original,24,0,0.14742554422626716
+GradientBoosting,K-Means,Original,24,0,0.117716128440887
+ErnestModel,K-Means,Synthetic,24,1000,0.14650841838533962
+GradientBoosting,K-Means,Synthetic,24,1000,0.11680193234456226
+ErnestModel,K-Means,Original,27,0,0.16255439581673353
+GradientBoosting,K-Means,Original,27,0,0.1315425488241268
+ErnestModel,K-Means,Synthetic,27,1000,0.1560061457107766
+GradientBoosting,K-Means,Synthetic,27,1000,0.14641417830784978
+ErnestModel,K-Means,Original,30,0,0.13691223513324474
+GradientBoosting,K-Means,Original,30,0,0.09453541080801729
+ErnestModel,K-Means,Synthetic,30,1000,0.13625498568192806
+GradientBoosting,K-Means,Synthetic,30,1000,0.10606979988498293
+ErnestModel,K-Means,Original,33,0,0.18084655145563705
+GradientBoosting,K-Means,Original,33,0,0.08426732462468277
+ErnestModel,K-Means,Synthetic,33,1000,0.17008378770655863
+GradientBoosting,K-Means,Synthetic,33,1000,0.07980105612697747
+ErnestModel,K-Means,Original,3,0,0.16437332418116135
+GradientBoosting,K-Means,Original,3,0,0.2952248664252189
+ErnestModel,K-Means,Synthetic,3,1000,0.16266164004158787
+GradientBoosting,K-Means,Synthetic,3,1000,0.3055270701721699
+ErnestModel,K-Means,Original,6,0,0.17765092699761792
+GradientBoosting,K-Means,Original,6,0,0.1558339498342345
+ErnestModel,K-Means,Synthetic,6,1000,0.17378845086137448
+GradientBoosting,K-Means,Synthetic,6,1000,0.2096729787511034
+ErnestModel,K-Means,Original,9,0,0.1900687769185727
+GradientBoosting,K-Means,Original,9,0,0.199222607025041
+ErnestModel,K-Means,Synthetic,9,1000,0.1879611647794514
+GradientBoosting,K-Means,Synthetic,9,1000,0.20179145749297378
+ErnestModel,K-Means,Original,12,0,0.1976135879763059
+GradientBoosting,K-Means,Original,12,0,0.20985293308686356
+ErnestModel,K-Means,Synthetic,12,1000,0.20454865217793514
+GradientBoosting,K-Means,Synthetic,12,1000,0.19484356116536103
+ErnestModel,K-Means,Original,15,0,0.1517163601551651
+GradientBoosting,K-Means,Original,15,0,0.14261848751346579
+ErnestModel,K-Means,Synthetic,15,1000,0.14622843365314364
+GradientBoosting,K-Means,Synthetic,15,1000,0.13086969747463612
+ErnestModel,K-Means,Original,18,0,0.14835862869526736
+GradientBoosting,K-Means,Original,18,0,0.17888321634492751
+ErnestModel,K-Means,Synthetic,18,1000,0.14898689984723842
+GradientBoosting,K-Means,Synthetic,18,1000,0.1995849696203983
+ErnestModel,K-Means,Original,21,0,0.14542304800721914
+GradientBoosting,K-Means,Original,21,0,0.09321829131804885
+ErnestModel,K-Means,Synthetic,21,1000,0.14331800822306773
+GradientBoosting,K-Means,Synthetic,21,1000,0.10539912254035914
+ErnestModel,K-Means,Original,24,0,0.1480291356315687
+GradientBoosting,K-Means,Original,24,0,0.12585223728404332
+ErnestModel,K-Means,Synthetic,24,1000,0.14676077426607978
+GradientBoosting,K-Means,Synthetic,24,1000,0.12380371818980204
+ErnestModel,K-Means,Original,27,0,0.15959321940120963
+GradientBoosting,K-Means,Original,27,0,0.10183533367069887
+ErnestModel,K-Means,Synthetic,27,1000,0.16173616280793693
+GradientBoosting,K-Means,Synthetic,27,1000,0.12388940889960082
+ErnestModel,K-Means,Original,30,0,0.1426913992304016
+GradientBoosting,K-Means,Original,30,0,0.11877462317186568
+ErnestModel,K-Means,Synthetic,30,1000,0.14156185217954362
+GradientBoosting,K-Means,Synthetic,30,1000,0.12006425675125083
+ErnestModel,K-Means,Original,33,0,0.14851633879888834
+GradientBoosting,K-Means,Original,33,0,0.08942808127975237
+ErnestModel,K-Means,Synthetic,33,1000,0.1451427268258054
+GradientBoosting,K-Means,Synthetic,33,1000,0.10304754005593397
+ErnestModel,K-Means,Original,3,0,0.22020678223403517
+GradientBoosting,K-Means,Original,3,0,0.3333779539556257
+ErnestModel,K-Means,Synthetic,3,1000,0.21916259581297332
+GradientBoosting,K-Means,Synthetic,3,1000,0.2651809132847219
+ErnestModel,K-Means,Original,6,0,0.20755333912420354
+GradientBoosting,K-Means,Original,6,0,0.25024577264803394
+ErnestModel,K-Means,Synthetic,6,1000,0.20022690944277577
+GradientBoosting,K-Means,Synthetic,6,1000,0.27674811433245955
+ErnestModel,K-Means,Original,9,0,0.14225674691237394
+GradientBoosting,K-Means,Original,9,0,0.2748178273000919
+ErnestModel,K-Means,Synthetic,9,1000,0.14481104849427193
+GradientBoosting,K-Means,Synthetic,9,1000,0.18549920847889792
+ErnestModel,K-Means,Original,12,0,0.15008876775163643
+GradientBoosting,K-Means,Original,12,0,0.18218954498385645
+ErnestModel,K-Means,Synthetic,12,1000,0.1485739473308783
+GradientBoosting,K-Means,Synthetic,12,1000,0.23336867198824113
+ErnestModel,K-Means,Original,15,0,0.14208394038192115
+GradientBoosting,K-Means,Original,15,0,0.14913026038136679
+ErnestModel,K-Means,Synthetic,15,1000,0.14153851415269264
+GradientBoosting,K-Means,Synthetic,15,1000,0.15348789007221614
+ErnestModel,K-Means,Original,18,0,0.15495516136049986
+GradientBoosting,K-Means,Original,18,0,0.1453733783137434
+ErnestModel,K-Means,Synthetic,18,1000,0.15675044078534794
+GradientBoosting,K-Means,Synthetic,18,1000,0.1554160257253911
+ErnestModel,K-Means,Original,21,0,0.14393932679355662
+GradientBoosting,K-Means,Original,21,0,0.1179287317557882
+ErnestModel,K-Means,Synthetic,21,1000,0.13892964841934768
+GradientBoosting,K-Means,Synthetic,21,1000,0.1213304382702192
+ErnestModel,K-Means,Original,24,0,0.16700581949438648
+GradientBoosting,K-Means,Original,24,0,0.09198872510077119
+ErnestModel,K-Means,Synthetic,24,1000,0.16067673387083353
+GradientBoosting,K-Means,Synthetic,24,1000,0.11133192138584677
+ErnestModel,K-Means,Original,27,0,0.1868086812428779
+GradientBoosting,K-Means,Original,27,0,0.111398465300947
+ErnestModel,K-Means,Synthetic,27,1000,0.18439610454357996
+GradientBoosting,K-Means,Synthetic,27,1000,0.11414942786140943
+ErnestModel,K-Means,Original,30,0,0.14382231613977778
+GradientBoosting,K-Means,Original,30,0,0.1054326608487858
+ErnestModel,K-Means,Synthetic,30,1000,0.1449610986647774
+GradientBoosting,K-Means,Synthetic,30,1000,0.12881021092266867
+ErnestModel,K-Means,Original,33,0,0.13525641264512867
+GradientBoosting,K-Means,Original,33,0,0.0891780544616142
+ErnestModel,K-Means,Synthetic,33,1000,0.1355924974966876
+GradientBoosting,K-Means,Synthetic,33,1000,0.10085523599889645
+ErnestModel,K-Means,Original,3,0,0.179162728096233
+GradientBoosting,K-Means,Original,3,0,0.4295996317865234
+ErnestModel,K-Means,Synthetic,3,1000,0.1699169961322029
+GradientBoosting,K-Means,Synthetic,3,1000,0.4263695473276498
+ErnestModel,K-Means,Original,6,0,0.15944988972856292
+GradientBoosting,K-Means,Original,6,0,0.1908231516139993
+ErnestModel,K-Means,Synthetic,6,1000,0.15918193935665373
+GradientBoosting,K-Means,Synthetic,6,1000,0.19485323688590622
+ErnestModel,K-Means,Original,9,0,0.2481197057212873
+GradientBoosting,K-Means,Original,9,0,0.28496160754071354
+ErnestModel,K-Means,Synthetic,9,1000,0.23699672930877733
+GradientBoosting,K-Means,Synthetic,9,1000,0.25185152696009855
+ErnestModel,K-Means,Original,12,0,0.1667998993682184
+GradientBoosting,K-Means,Original,12,0,0.1622485742116018
+ErnestModel,K-Means,Synthetic,12,1000,0.16632251676586718
+GradientBoosting,K-Means,Synthetic,12,1000,0.15826891900274126
+ErnestModel,K-Means,Original,15,0,0.16667914613806242
+GradientBoosting,K-Means,Original,15,0,0.17296912959804256
+ErnestModel,K-Means,Synthetic,15,1000,0.162950944108808
+GradientBoosting,K-Means,Synthetic,15,1000,0.17896247152204006
+ErnestModel,K-Means,Original,18,0,0.2596904341151336
+GradientBoosting,K-Means,Original,18,0,0.15102848586264234
+ErnestModel,K-Means,Synthetic,18,1000,0.24399850002140072
+GradientBoosting,K-Means,Synthetic,18,1000,0.14999908531202072
+ErnestModel,K-Means,Original,21,0,0.15505470155186857
+GradientBoosting,K-Means,Original,21,0,0.11343172585459105
+ErnestModel,K-Means,Synthetic,21,1000,0.1464651622910163
+GradientBoosting,K-Means,Synthetic,21,1000,0.1140063589960197
+ErnestModel,K-Means,Original,24,0,0.20485895942447058
+GradientBoosting,K-Means,Original,24,0,0.11206016630200742
+ErnestModel,K-Means,Synthetic,24,1000,0.1926050570953289
+GradientBoosting,K-Means,Synthetic,24,1000,0.11614474341384871
+ErnestModel,K-Means,Original,27,0,0.15057947608766728
+GradientBoosting,K-Means,Original,27,0,0.08746841517796719
+ErnestModel,K-Means,Synthetic,27,1000,0.14676141218713498
+GradientBoosting,K-Means,Synthetic,27,1000,0.09495082667703908
+ErnestModel,K-Means,Original,30,0,0.16829201843359737
+GradientBoosting,K-Means,Original,30,0,0.08964223068184307
+ErnestModel,K-Means,Synthetic,30,1000,0.1580430437456864
+GradientBoosting,K-Means,Synthetic,30,1000,0.10535073014319461
+ErnestModel,K-Means,Original,33,0,0.15642121397108436
+GradientBoosting,K-Means,Original,33,0,0.11907905910068808
+ErnestModel,K-Means,Synthetic,33,1000,0.15609413898395175
+GradientBoosting,K-Means,Synthetic,33,1000,0.12458649086721017
+ErnestModel,K-Means,Original,3,0,0.3172360456185392
+GradientBoosting,K-Means,Original,3,0,0.31504458033240823
+ErnestModel,K-Means,Synthetic,3,1000,0.309670448897466
+GradientBoosting,K-Means,Synthetic,3,1000,0.29883026822976977
+ErnestModel,K-Means,Original,6,0,0.16142999441630015
+GradientBoosting,K-Means,Original,6,0,0.20262054179311076
+ErnestModel,K-Means,Synthetic,6,1000,0.16040948880338243
+GradientBoosting,K-Means,Synthetic,6,1000,0.20443856887786072
+ErnestModel,K-Means,Original,9,0,0.13795567054864644
+GradientBoosting,K-Means,Original,9,0,0.2056040636380863
+ErnestModel,K-Means,Synthetic,9,1000,0.13856411607816113
+GradientBoosting,K-Means,Synthetic,9,1000,0.20061059799275432
+ErnestModel,K-Means,Original,12,0,0.1394318698515557
+GradientBoosting,K-Means,Original,12,0,0.16605840036230252
+ErnestModel,K-Means,Synthetic,12,1000,0.14056990744231943
+GradientBoosting,K-Means,Synthetic,12,1000,0.16626766614292746
+ErnestModel,K-Means,Original,15,0,0.15833334980328972
+GradientBoosting,K-Means,Original,15,0,0.17378568538350642
+ErnestModel,K-Means,Synthetic,15,1000,0.1562993210021575
+GradientBoosting,K-Means,Synthetic,15,1000,0.1860773205352146
+ErnestModel,K-Means,Original,18,0,0.16004921767422942
+GradientBoosting,K-Means,Original,18,0,0.11598319168454434
+ErnestModel,K-Means,Synthetic,18,1000,0.1544778676608554
+GradientBoosting,K-Means,Synthetic,18,1000,0.12915617890407163
+ErnestModel,K-Means,Original,21,0,0.15827220138945158
+GradientBoosting,K-Means,Original,21,0,0.09517843798364692
+ErnestModel,K-Means,Synthetic,21,1000,0.15554312527735298
+GradientBoosting,K-Means,Synthetic,21,1000,0.10438317654737657
+ErnestModel,K-Means,Original,24,0,0.14906394880435322
+GradientBoosting,K-Means,Original,24,0,0.14269978133486722
+ErnestModel,K-Means,Synthetic,24,1000,0.1489841126931603
+GradientBoosting,K-Means,Synthetic,24,1000,0.13731511961273465
+ErnestModel,K-Means,Original,27,0,0.16350437640264726
+GradientBoosting,K-Means,Original,27,0,0.1304609827957469
+ErnestModel,K-Means,Synthetic,27,1000,0.16116305378418824
+GradientBoosting,K-Means,Synthetic,27,1000,0.10833875084550493
+ErnestModel,K-Means,Original,30,0,0.14871739102668236
+GradientBoosting,K-Means,Original,30,0,0.10054399093486861
+ErnestModel,K-Means,Synthetic,30,1000,0.14752184147636313
+GradientBoosting,K-Means,Synthetic,30,1000,0.10302354292437704
+ErnestModel,K-Means,Original,33,0,0.15223566092770727
+GradientBoosting,K-Means,Original,33,0,0.10465217419934764
+ErnestModel,K-Means,Synthetic,33,1000,0.15443669118995526
+GradientBoosting,K-Means,Synthetic,33,1000,0.11142565322743309
+ErnestModel,K-Means,Original,3,0,0.18045439697915167
+GradientBoosting,K-Means,Original,3,0,0.29903335660790853
+ErnestModel,K-Means,Synthetic,3,1000,0.17123017615729702
+GradientBoosting,K-Means,Synthetic,3,1000,0.3004870927608236
+ErnestModel,K-Means,Original,6,0,0.27887512369731
+GradientBoosting,K-Means,Original,6,0,0.2978784484719026
+ErnestModel,K-Means,Synthetic,6,1000,0.28200465357414933
+GradientBoosting,K-Means,Synthetic,6,1000,0.22654241420964125
+ErnestModel,K-Means,Original,9,0,0.19420733992577927
+GradientBoosting,K-Means,Original,9,0,0.20713791662307512
+ErnestModel,K-Means,Synthetic,9,1000,0.18863055074582985
+GradientBoosting,K-Means,Synthetic,9,1000,0.2124177022448775
+ErnestModel,K-Means,Original,12,0,0.1424521361513631
+GradientBoosting,K-Means,Original,12,0,0.20475680983088548
+ErnestModel,K-Means,Synthetic,12,1000,0.14236264792791054
+GradientBoosting,K-Means,Synthetic,12,1000,0.24008748998939683
+ErnestModel,K-Means,Original,15,0,0.1561263108408087
+GradientBoosting,K-Means,Original,15,0,0.15332458423848871
+ErnestModel,K-Means,Synthetic,15,1000,0.1568358276226419
+GradientBoosting,K-Means,Synthetic,15,1000,0.1536761500764405
+ErnestModel,K-Means,Original,18,0,0.1541995007809685
+GradientBoosting,K-Means,Original,18,0,0.12497489031443958
+ErnestModel,K-Means,Synthetic,18,1000,0.15284646926381068
+GradientBoosting,K-Means,Synthetic,18,1000,0.12510245096903236
+ErnestModel,K-Means,Original,21,0,0.14084702639064842
+GradientBoosting,K-Means,Original,21,0,0.14861247846892953
+ErnestModel,K-Means,Synthetic,21,1000,0.14262844070352862
+GradientBoosting,K-Means,Synthetic,21,1000,0.15764799748427855
+ErnestModel,K-Means,Original,24,0,0.14671836352298542
+GradientBoosting,K-Means,Original,24,0,0.12548504034449798
+ErnestModel,K-Means,Synthetic,24,1000,0.15026228582158047
+GradientBoosting,K-Means,Synthetic,24,1000,0.11387739799929605
+ErnestModel,K-Means,Original,27,0,0.17103856972414372
+GradientBoosting,K-Means,Original,27,0,0.1314683278291686
+ErnestModel,K-Means,Synthetic,27,1000,0.17042796207118585
+GradientBoosting,K-Means,Synthetic,27,1000,0.1413290377769877
+ErnestModel,K-Means,Original,30,0,0.1560131503706396
+GradientBoosting,K-Means,Original,30,0,0.08376066152027303
+ErnestModel,K-Means,Synthetic,30,1000,0.15136871990115278
+GradientBoosting,K-Means,Synthetic,30,1000,0.0886256945076114
+ErnestModel,K-Means,Original,33,0,0.14673683401313384
+GradientBoosting,K-Means,Original,33,0,0.14557202263886512
+ErnestModel,K-Means,Synthetic,33,1000,0.14546413581779455
+GradientBoosting,K-Means,Synthetic,33,1000,0.1613107800041352
+ErnestModel,K-Means,Original,3,0,0.22902173474267107
+GradientBoosting,K-Means,Original,3,0,0.24639880952405696
+ErnestModel,K-Means,Synthetic,3,1000,0.24126181609094635
+GradientBoosting,K-Means,Synthetic,3,1000,0.299712795092217
+ErnestModel,K-Means,Original,6,0,0.2014153416252662
+GradientBoosting,K-Means,Original,6,0,0.23186317427918676
+ErnestModel,K-Means,Synthetic,6,1000,0.2060104573999752
+GradientBoosting,K-Means,Synthetic,6,1000,0.2353852894912987
+ErnestModel,K-Means,Original,9,0,0.14373417320627585
+GradientBoosting,K-Means,Original,9,0,0.30036164823192385
+ErnestModel,K-Means,Synthetic,9,1000,0.14387298090712025
+GradientBoosting,K-Means,Synthetic,9,1000,0.2810978345894342
+ErnestModel,K-Means,Original,12,0,0.15321034348289836
+GradientBoosting,K-Means,Original,12,0,0.19003093435393745
+ErnestModel,K-Means,Synthetic,12,1000,0.15154881204640286
+GradientBoosting,K-Means,Synthetic,12,1000,0.20642255608028937
+ErnestModel,K-Means,Original,15,0,0.14384971740938823
+GradientBoosting,K-Means,Original,15,0,0.15463375192936754
+ErnestModel,K-Means,Synthetic,15,1000,0.14248745334623553
+GradientBoosting,K-Means,Synthetic,15,1000,0.1491917228886322
+ErnestModel,K-Means,Original,18,0,0.15778496610714926
+GradientBoosting,K-Means,Original,18,0,0.14791684960155035
+ErnestModel,K-Means,Synthetic,18,1000,0.1571558606550683
+GradientBoosting,K-Means,Synthetic,18,1000,0.15987757444796533
+ErnestModel,K-Means,Original,21,0,0.14357195182556665
+GradientBoosting,K-Means,Original,21,0,0.11411753251876085
+ErnestModel,K-Means,Synthetic,21,1000,0.14366314101871783
+GradientBoosting,K-Means,Synthetic,21,1000,0.11672326966611726
+ErnestModel,K-Means,Original,24,0,0.18504083430468557
+GradientBoosting,K-Means,Original,24,0,0.12933574812800333
+ErnestModel,K-Means,Synthetic,24,1000,0.18090621039281796
+GradientBoosting,K-Means,Synthetic,24,1000,0.13547105118870925
+ErnestModel,K-Means,Original,27,0,0.17896170135719414
+GradientBoosting,K-Means,Original,27,0,0.11182888953487366
+ErnestModel,K-Means,Synthetic,27,1000,0.17430807226804482
+GradientBoosting,K-Means,Synthetic,27,1000,0.10500938228109358
+ErnestModel,K-Means,Original,30,0,0.14678000158335883
+GradientBoosting,K-Means,Original,30,0,0.10925379304226555
+ErnestModel,K-Means,Synthetic,30,1000,0.14115983423337944
+GradientBoosting,K-Means,Synthetic,30,1000,0.11962795927317743
+ErnestModel,K-Means,Original,33,0,0.1457368449825454
+GradientBoosting,K-Means,Original,33,0,0.11051348764074943
+ErnestModel,K-Means,Synthetic,33,1000,0.14453997405195892
+GradientBoosting,K-Means,Synthetic,33,1000,0.11245870929343717
+ErnestModel,Page Rank,Original,3,0,0.3313785604348615
+GradientBoosting,Page Rank,Original,3,0,0.3378230674912633
+ErnestModel,Page Rank,Synthetic,3,1000,0.33138157224480064
+GradientBoosting,Page Rank,Synthetic,3,1000,0.33642169346556017
+ErnestModel,Page Rank,Original,6,0,0.5820635297773396
+GradientBoosting,Page Rank,Original,6,0,0.3308575838810253
+ErnestModel,Page Rank,Synthetic,6,1000,0.5800184900784181
+GradientBoosting,Page Rank,Synthetic,6,1000,0.35849297892088905
+ErnestModel,Page Rank,Original,9,0,0.3145904314579882
+GradientBoosting,Page Rank,Original,9,0,0.3023880086574788
+ErnestModel,Page Rank,Synthetic,9,1000,0.31000381207189764
+GradientBoosting,Page Rank,Synthetic,9,1000,0.41667840429728653
+ErnestModel,Page Rank,Original,12,0,0.526321125933256
+GradientBoosting,Page Rank,Original,12,0,0.3056887398248567
+ErnestModel,Page Rank,Synthetic,12,1000,0.5207026333706962
+GradientBoosting,Page Rank,Synthetic,12,1000,0.2932670297899146
+ErnestModel,Page Rank,Original,15,0,0.44002215045881354
+GradientBoosting,Page Rank,Original,15,0,0.1970116029463845
+ErnestModel,Page Rank,Synthetic,15,1000,0.4511118306987202
+GradientBoosting,Page Rank,Synthetic,15,1000,0.23481851052241282
+ErnestModel,Page Rank,Original,18,0,0.37795998659575664
+GradientBoosting,Page Rank,Original,18,0,0.1340753184851738
+ErnestModel,Page Rank,Synthetic,18,1000,0.39443310446084484
+GradientBoosting,Page Rank,Synthetic,18,1000,0.17971361724456514
+ErnestModel,Page Rank,Original,21,0,0.5529313938804975
+GradientBoosting,Page Rank,Original,21,0,0.1943672892377062
+ErnestModel,Page Rank,Synthetic,21,1000,0.5414418532185596
+GradientBoosting,Page Rank,Synthetic,21,1000,0.16788554691672575
+ErnestModel,Page Rank,Original,24,0,0.5021891770135685
+GradientBoosting,Page Rank,Original,24,0,0.15272826321510674
+ErnestModel,Page Rank,Synthetic,24,1000,0.503267039870789
+GradientBoosting,Page Rank,Synthetic,24,1000,0.21264759739141248
+ErnestModel,Page Rank,Original,27,0,0.3927305713898169
+GradientBoosting,Page Rank,Original,27,0,0.14966128410177415
+ErnestModel,Page Rank,Synthetic,27,1000,0.40243131696765794
+GradientBoosting,Page Rank,Synthetic,27,1000,0.158223411344277
+ErnestModel,Page Rank,Original,30,0,0.37651307058489153
+GradientBoosting,Page Rank,Original,30,0,0.11851721243769324
+ErnestModel,Page Rank,Synthetic,30,1000,0.3864739755149395
+GradientBoosting,Page Rank,Synthetic,30,1000,0.13059673417509685
+ErnestModel,Page Rank,Original,33,0,0.3554235541521812
+GradientBoosting,Page Rank,Original,33,0,0.12670809374247963
+ErnestModel,Page Rank,Synthetic,33,1000,0.3664871733737827
+GradientBoosting,Page Rank,Synthetic,33,1000,0.17408051618320494
+ErnestModel,Page Rank,Original,3,0,0.8479432734533926
+GradientBoosting,Page Rank,Original,3,0,0.2738974541661005
+ErnestModel,Page Rank,Synthetic,3,1000,0.8348131209859767
+GradientBoosting,Page Rank,Synthetic,3,1000,0.2937657173067553
+ErnestModel,Page Rank,Original,6,0,0.3089444612071269
+GradientBoosting,Page Rank,Original,6,0,0.2798145600323353
+ErnestModel,Page Rank,Synthetic,6,1000,0.3094983206433166
+GradientBoosting,Page Rank,Synthetic,6,1000,0.2715373418903513
+ErnestModel,Page Rank,Original,9,0,0.293978355535501
+GradientBoosting,Page Rank,Original,9,0,0.2873085510908953
+ErnestModel,Page Rank,Synthetic,9,1000,0.2981575652085282
+GradientBoosting,Page Rank,Synthetic,9,1000,0.2707449584425907
+ErnestModel,Page Rank,Original,12,0,0.44098349326646774
+GradientBoosting,Page Rank,Original,12,0,0.2438404978786484
+ErnestModel,Page Rank,Synthetic,12,1000,0.43121863202105964
+GradientBoosting,Page Rank,Synthetic,12,1000,0.25604944369840227
+ErnestModel,Page Rank,Original,15,0,0.33923130684320474
+GradientBoosting,Page Rank,Original,15,0,0.24540826712320996
+ErnestModel,Page Rank,Synthetic,15,1000,0.3302777898391691
+GradientBoosting,Page Rank,Synthetic,15,1000,0.2299012948932222
+ErnestModel,Page Rank,Original,18,0,0.34954527080023506
+GradientBoosting,Page Rank,Original,18,0,0.25861234579893466
+ErnestModel,Page Rank,Synthetic,18,1000,0.34660783593135985
+GradientBoosting,Page Rank,Synthetic,18,1000,0.21223950868154018
+ErnestModel,Page Rank,Original,21,0,0.3670781557856304
+GradientBoosting,Page Rank,Original,21,0,0.279009210737048
+ErnestModel,Page Rank,Synthetic,21,1000,0.3711404694001817
+GradientBoosting,Page Rank,Synthetic,21,1000,0.28813127524212784
+ErnestModel,Page Rank,Original,24,0,0.39654296019289986
+GradientBoosting,Page Rank,Original,24,0,0.220158098044328
+ErnestModel,Page Rank,Synthetic,24,1000,0.40686726937169865
+GradientBoosting,Page Rank,Synthetic,24,1000,0.2578802965023192
+ErnestModel,Page Rank,Original,27,0,0.3489182511434049
+GradientBoosting,Page Rank,Original,27,0,0.13611774476095795
+ErnestModel,Page Rank,Synthetic,27,1000,0.3441021507344207
+GradientBoosting,Page Rank,Synthetic,27,1000,0.18753609932268359
+ErnestModel,Page Rank,Original,30,0,0.3539606866800191
+GradientBoosting,Page Rank,Original,30,0,0.15908671829315774
+ErnestModel,Page Rank,Synthetic,30,1000,0.3647524567444301
+GradientBoosting,Page Rank,Synthetic,30,1000,0.1460382344080753
+ErnestModel,Page Rank,Original,33,0,0.33394445829971686
+GradientBoosting,Page Rank,Original,33,0,0.10983166320557321
+ErnestModel,Page Rank,Synthetic,33,1000,0.33703546649422145
+GradientBoosting,Page Rank,Synthetic,33,1000,0.12260477075506766
+ErnestModel,Page Rank,Original,3,0,0.45235085100247263
+GradientBoosting,Page Rank,Original,3,0,0.3216584587163924
+ErnestModel,Page Rank,Synthetic,3,1000,0.46227592975705795
+GradientBoosting,Page Rank,Synthetic,3,1000,0.3413790318738671
+ErnestModel,Page Rank,Original,6,0,0.38632828723817225
+GradientBoosting,Page Rank,Original,6,0,0.535260229058138
+ErnestModel,Page Rank,Synthetic,6,1000,0.3861739038725939
+GradientBoosting,Page Rank,Synthetic,6,1000,0.44217963713982106
+ErnestModel,Page Rank,Original,9,0,0.3946894400343973
+GradientBoosting,Page Rank,Original,9,0,0.38193613176817176
+ErnestModel,Page Rank,Synthetic,9,1000,0.3818431529780366
+GradientBoosting,Page Rank,Synthetic,9,1000,0.39752763942029157
+ErnestModel,Page Rank,Original,12,0,0.34959772939506284
+GradientBoosting,Page Rank,Original,12,0,0.3230905003889072
+ErnestModel,Page Rank,Synthetic,12,1000,0.35431964514730846
+GradientBoosting,Page Rank,Synthetic,12,1000,0.3045394061491681
+ErnestModel,Page Rank,Original,15,0,0.3860256421725278
+GradientBoosting,Page Rank,Original,15,0,0.18861724128048646
+ErnestModel,Page Rank,Synthetic,15,1000,0.3799796266353161
+GradientBoosting,Page Rank,Synthetic,15,1000,0.2253335547362093
+ErnestModel,Page Rank,Original,18,0,0.4155388067024282
+GradientBoosting,Page Rank,Original,18,0,0.28522127182150486
+ErnestModel,Page Rank,Synthetic,18,1000,0.4169977640315529
+GradientBoosting,Page Rank,Synthetic,18,1000,0.3062055615206372
+ErnestModel,Page Rank,Original,21,0,0.446918486698939
+GradientBoosting,Page Rank,Original,21,0,0.1856038487211033
+ErnestModel,Page Rank,Synthetic,21,1000,0.4583871414921439
+GradientBoosting,Page Rank,Synthetic,21,1000,0.21104043308772438
+ErnestModel,Page Rank,Original,24,0,0.3823242687754816
+GradientBoosting,Page Rank,Original,24,0,0.18613218569243323
+ErnestModel,Page Rank,Synthetic,24,1000,0.3967521006284656
+GradientBoosting,Page Rank,Synthetic,24,1000,0.20293681210842676
+ErnestModel,Page Rank,Original,27,0,0.31402888267001117
+GradientBoosting,Page Rank,Original,27,0,0.12352573270144977
+ErnestModel,Page Rank,Synthetic,27,1000,0.3133102023286044
+GradientBoosting,Page Rank,Synthetic,27,1000,0.16914254884381538
+ErnestModel,Page Rank,Original,30,0,0.29182418719671743
+GradientBoosting,Page Rank,Original,30,0,0.07311572809495948
+ErnestModel,Page Rank,Synthetic,30,1000,0.29679421561390185
+GradientBoosting,Page Rank,Synthetic,30,1000,0.10018965986939839
+ErnestModel,Page Rank,Original,33,0,0.3651541734635813
+GradientBoosting,Page Rank,Original,33,0,0.13965316101887165
+ErnestModel,Page Rank,Synthetic,33,1000,0.380371782560974
+GradientBoosting,Page Rank,Synthetic,33,1000,0.16923954337303598
+ErnestModel,Page Rank,Original,3,0,0.40903158895523306
+GradientBoosting,Page Rank,Original,3,0,0.3560072096127522
+ErnestModel,Page Rank,Synthetic,3,1000,0.4017776761538326
+GradientBoosting,Page Rank,Synthetic,3,1000,0.32653106888715816
+ErnestModel,Page Rank,Original,6,0,0.3176474162910951
+GradientBoosting,Page Rank,Original,6,0,0.33918040151917345
+ErnestModel,Page Rank,Synthetic,6,1000,0.32141760013262155
+GradientBoosting,Page Rank,Synthetic,6,1000,0.29719765583957297
+ErnestModel,Page Rank,Original,9,0,0.30005771659457664
+GradientBoosting,Page Rank,Original,9,0,0.2718490176059114
+ErnestModel,Page Rank,Synthetic,9,1000,0.30353238900611224
+GradientBoosting,Page Rank,Synthetic,9,1000,0.29483844948533267
+ErnestModel,Page Rank,Original,12,0,0.5141111916460757
+GradientBoosting,Page Rank,Original,12,0,0.25497259080024454
+ErnestModel,Page Rank,Synthetic,12,1000,0.5162586056211868
+GradientBoosting,Page Rank,Synthetic,12,1000,0.26578903467405307
+ErnestModel,Page Rank,Original,15,0,0.31784326209810215
+GradientBoosting,Page Rank,Original,15,0,0.2387949940822875
+ErnestModel,Page Rank,Synthetic,15,1000,0.3176730894468124
+GradientBoosting,Page Rank,Synthetic,15,1000,0.24187994916000785
+ErnestModel,Page Rank,Original,18,0,0.30173210116709115
+GradientBoosting,Page Rank,Original,18,0,0.16144970873811712
+ErnestModel,Page Rank,Synthetic,18,1000,0.303815002083079
+GradientBoosting,Page Rank,Synthetic,18,1000,0.1719266017817195
+ErnestModel,Page Rank,Original,21,0,0.32197912457652683
+GradientBoosting,Page Rank,Original,21,0,0.22880596287950664
+ErnestModel,Page Rank,Synthetic,21,1000,0.32192860413546076
+GradientBoosting,Page Rank,Synthetic,21,1000,0.22315762039805098
+ErnestModel,Page Rank,Original,24,0,0.3315751000814727
+GradientBoosting,Page Rank,Original,24,0,0.09737674186384351
+ErnestModel,Page Rank,Synthetic,24,1000,0.3347088146600674
+GradientBoosting,Page Rank,Synthetic,24,1000,0.12624047528877794
+ErnestModel,Page Rank,Original,27,0,0.3347483403430665
+GradientBoosting,Page Rank,Original,27,0,0.14523402108779113
+ErnestModel,Page Rank,Synthetic,27,1000,0.33767010307089124
+GradientBoosting,Page Rank,Synthetic,27,1000,0.17152881180860372
+ErnestModel,Page Rank,Original,30,0,0.3169097848071066
+GradientBoosting,Page Rank,Original,30,0,0.13161592372927367
+ErnestModel,Page Rank,Synthetic,30,1000,0.3248658142367134
+GradientBoosting,Page Rank,Synthetic,30,1000,0.18035142361808568
+ErnestModel,Page Rank,Original,33,0,0.33248387925094647
+GradientBoosting,Page Rank,Original,33,0,0.09460758306933635
+ErnestModel,Page Rank,Synthetic,33,1000,0.3452859664611116
+GradientBoosting,Page Rank,Synthetic,33,1000,0.11514557133847815
+ErnestModel,Page Rank,Original,3,0,0.4132131691924744
+GradientBoosting,Page Rank,Original,3,0,0.8994900439485004
+ErnestModel,Page Rank,Synthetic,3,1000,0.4167955988359558
+GradientBoosting,Page Rank,Synthetic,3,1000,0.8049889319951359
+ErnestModel,Page Rank,Original,6,0,0.4033976888622978
+GradientBoosting,Page Rank,Original,6,0,0.17013728087843982
+ErnestModel,Page Rank,Synthetic,6,1000,0.39255324176570494
+GradientBoosting,Page Rank,Synthetic,6,1000,0.24703275558781934
+ErnestModel,Page Rank,Original,9,0,0.31764712797580746
+GradientBoosting,Page Rank,Original,9,0,0.1954960751448988
+ErnestModel,Page Rank,Synthetic,9,1000,0.3188166987687968
+GradientBoosting,Page Rank,Synthetic,9,1000,0.2074109263106198
+ErnestModel,Page Rank,Original,12,0,0.3394335144351741
+GradientBoosting,Page Rank,Original,12,0,0.3509478664379852
+ErnestModel,Page Rank,Synthetic,12,1000,0.3433812641736026
+GradientBoosting,Page Rank,Synthetic,12,1000,0.36566331161223764
+ErnestModel,Page Rank,Original,15,0,0.31797385346018747
+GradientBoosting,Page Rank,Original,15,0,0.20809610340281243
+ErnestModel,Page Rank,Synthetic,15,1000,0.31998950729705394
+GradientBoosting,Page Rank,Synthetic,15,1000,0.21484290054774535
+ErnestModel,Page Rank,Original,18,0,0.31954744925330353
+GradientBoosting,Page Rank,Original,18,0,0.15444641862127345
+ErnestModel,Page Rank,Synthetic,18,1000,0.3239655241688158
+GradientBoosting,Page Rank,Synthetic,18,1000,0.16727097383348397
+ErnestModel,Page Rank,Original,21,0,0.3349477177023969
+GradientBoosting,Page Rank,Original,21,0,0.1361657073622302
+ErnestModel,Page Rank,Synthetic,21,1000,0.3449524641816313
+GradientBoosting,Page Rank,Synthetic,21,1000,0.19987395500262195
+ErnestModel,Page Rank,Original,24,0,0.3591147771871761
+GradientBoosting,Page Rank,Original,24,0,0.18268878322147888
+ErnestModel,Page Rank,Synthetic,24,1000,0.3627890984181475
+GradientBoosting,Page Rank,Synthetic,24,1000,0.16038443172432454
+ErnestModel,Page Rank,Original,27,0,0.3997152023711967
+GradientBoosting,Page Rank,Original,27,0,0.13114189059314765
+ErnestModel,Page Rank,Synthetic,27,1000,0.4031115057435391
+GradientBoosting,Page Rank,Synthetic,27,1000,0.17813125872614774
+ErnestModel,Page Rank,Original,30,0,0.3131478160185656
+GradientBoosting,Page Rank,Original,30,0,0.16279771079784552
+ErnestModel,Page Rank,Synthetic,30,1000,0.3149559750307409
+GradientBoosting,Page Rank,Synthetic,30,1000,0.20048764975950403
+ErnestModel,Page Rank,Original,33,0,0.31660957539512724
+GradientBoosting,Page Rank,Original,33,0,0.11367852441281948
+ErnestModel,Page Rank,Synthetic,33,1000,0.32136394757136894
+GradientBoosting,Page Rank,Synthetic,33,1000,0.13845714654574406
+ErnestModel,Page Rank,Original,3,0,0.43547616908489095
+GradientBoosting,Page Rank,Original,3,0,0.29441227406599235
+ErnestModel,Page Rank,Synthetic,3,1000,0.42025334221018223
+GradientBoosting,Page Rank,Synthetic,3,1000,0.338461944073661
+ErnestModel,Page Rank,Original,6,0,0.42718448816738636
+GradientBoosting,Page Rank,Original,6,0,0.2334372276697504
+ErnestModel,Page Rank,Synthetic,6,1000,0.4126344921034938
+GradientBoosting,Page Rank,Synthetic,6,1000,0.2570460874820265
+ErnestModel,Page Rank,Original,9,0,0.3707497051533573
+GradientBoosting,Page Rank,Original,9,0,0.38007324388842534
+ErnestModel,Page Rank,Synthetic,9,1000,0.3658795281291253
+GradientBoosting,Page Rank,Synthetic,9,1000,0.3709351434393439
+ErnestModel,Page Rank,Original,12,0,0.34206583094766857
+GradientBoosting,Page Rank,Original,12,0,0.260802113361163
+ErnestModel,Page Rank,Synthetic,12,1000,0.34336292522204587
+GradientBoosting,Page Rank,Synthetic,12,1000,0.2710694336672151
+ErnestModel,Page Rank,Original,15,0,0.3735456686612932
+GradientBoosting,Page Rank,Original,15,0,0.17437959960044577
+ErnestModel,Page Rank,Synthetic,15,1000,0.3744647064462912
+GradientBoosting,Page Rank,Synthetic,15,1000,0.2268224620073633
+ErnestModel,Page Rank,Original,18,0,0.3754746443089198
+GradientBoosting,Page Rank,Original,18,0,0.2468354686095021
+ErnestModel,Page Rank,Synthetic,18,1000,0.37994344582958395
+GradientBoosting,Page Rank,Synthetic,18,1000,0.2566976281557999
+ErnestModel,Page Rank,Original,21,0,0.3291495095224861
+GradientBoosting,Page Rank,Original,21,0,0.16823651731041783
+ErnestModel,Page Rank,Synthetic,21,1000,0.3210388336345132
+GradientBoosting,Page Rank,Synthetic,21,1000,0.18653550107656464
+ErnestModel,Page Rank,Original,24,0,0.3285906555477761
+GradientBoosting,Page Rank,Original,24,0,0.10163739452014534
+ErnestModel,Page Rank,Synthetic,24,1000,0.3322736416852908
+GradientBoosting,Page Rank,Synthetic,24,1000,0.13081412778027068
+ErnestModel,Page Rank,Original,27,0,0.30838950560266765
+GradientBoosting,Page Rank,Original,27,0,0.11979999796204968
+ErnestModel,Page Rank,Synthetic,27,1000,0.3085105434325907
+GradientBoosting,Page Rank,Synthetic,27,1000,0.12646101120480382
+ErnestModel,Page Rank,Original,30,0,0.3366357121577178
+GradientBoosting,Page Rank,Original,30,0,0.11210294812440551
+ErnestModel,Page Rank,Synthetic,30,1000,0.347721617152814
+GradientBoosting,Page Rank,Synthetic,30,1000,0.13739126494525616
+ErnestModel,Page Rank,Original,33,0,0.3057115990144327
+GradientBoosting,Page Rank,Original,33,0,0.10297232827286269
+ErnestModel,Page Rank,Synthetic,33,1000,0.3074294271988704
+GradientBoosting,Page Rank,Synthetic,33,1000,0.1364876167686114
+ErnestModel,Page Rank,Original,3,0,0.48885909271526423
+GradientBoosting,Page Rank,Original,3,0,0.33674257968817173
+ErnestModel,Page Rank,Synthetic,3,1000,0.4796091868316465
+GradientBoosting,Page Rank,Synthetic,3,1000,0.3921141890833581
+ErnestModel,Page Rank,Original,6,0,0.39721147762519743
+GradientBoosting,Page Rank,Original,6,0,0.25015981342087906
+ErnestModel,Page Rank,Synthetic,6,1000,0.4088624017716612
+GradientBoosting,Page Rank,Synthetic,6,1000,0.30486359906761956
+ErnestModel,Page Rank,Original,9,0,0.49998000346936117
+GradientBoosting,Page Rank,Original,9,0,0.5772021102159256
+ErnestModel,Page Rank,Synthetic,9,1000,0.5124391102271494
+GradientBoosting,Page Rank,Synthetic,9,1000,0.5431202739663871
+ErnestModel,Page Rank,Original,12,0,0.4356975837120201
+GradientBoosting,Page Rank,Original,12,0,0.2109750227053073
+ErnestModel,Page Rank,Synthetic,12,1000,0.43283693925326105
+GradientBoosting,Page Rank,Synthetic,12,1000,0.1642572119273514
+ErnestModel,Page Rank,Original,15,0,0.3970879070308383
+GradientBoosting,Page Rank,Original,15,0,0.16721162882063104
+ErnestModel,Page Rank,Synthetic,15,1000,0.4085154802345901
+GradientBoosting,Page Rank,Synthetic,15,1000,0.21678620436235477
+ErnestModel,Page Rank,Original,18,0,0.41744589334240323
+GradientBoosting,Page Rank,Original,18,0,0.19155756641111113
+ErnestModel,Page Rank,Synthetic,18,1000,0.4367475728394977
+GradientBoosting,Page Rank,Synthetic,18,1000,0.21206115543891985
+ErnestModel,Page Rank,Original,21,0,0.38776206380944106
+GradientBoosting,Page Rank,Original,21,0,0.234089220910762
+ErnestModel,Page Rank,Synthetic,21,1000,0.3959216712617645
+GradientBoosting,Page Rank,Synthetic,21,1000,0.272494863802006
+ErnestModel,Page Rank,Original,24,0,0.47705125388573094
+GradientBoosting,Page Rank,Original,24,0,0.27973230090207907
+ErnestModel,Page Rank,Synthetic,24,1000,0.4740121493985955
+GradientBoosting,Page Rank,Synthetic,24,1000,0.2920237489635894
+ErnestModel,Page Rank,Original,27,0,0.328252107971691
+GradientBoosting,Page Rank,Original,27,0,0.16678056614187436
+ErnestModel,Page Rank,Synthetic,27,1000,0.3394702556812564
+GradientBoosting,Page Rank,Synthetic,27,1000,0.18808323308930616
+ErnestModel,Page Rank,Original,30,0,0.46598341143928435
+GradientBoosting,Page Rank,Original,30,0,0.13335737479136445
+ErnestModel,Page Rank,Synthetic,30,1000,0.47682153610312955
+GradientBoosting,Page Rank,Synthetic,30,1000,0.1376292701978997
+ErnestModel,Page Rank,Original,33,0,0.32235634962497217
+GradientBoosting,Page Rank,Original,33,0,0.07102792186394886
+ErnestModel,Page Rank,Synthetic,33,1000,0.3276400855484119
+GradientBoosting,Page Rank,Synthetic,33,1000,0.08422998222208852
+ErnestModel,Page Rank,Original,3,0,0.29732073738170567
+GradientBoosting,Page Rank,Original,3,0,0.3697686615566801
+ErnestModel,Page Rank,Synthetic,3,1000,0.2980146822893479
+GradientBoosting,Page Rank,Synthetic,3,1000,0.34564250376127875
+ErnestModel,Page Rank,Original,6,0,0.3939356835667895
+GradientBoosting,Page Rank,Original,6,0,0.28907917317083504
+ErnestModel,Page Rank,Synthetic,6,1000,0.39880229536111733
+GradientBoosting,Page Rank,Synthetic,6,1000,0.29960170505497563
+ErnestModel,Page Rank,Original,9,0,0.2934159341123813
+GradientBoosting,Page Rank,Original,9,0,0.26791297156919525
+ErnestModel,Page Rank,Synthetic,9,1000,0.29291976842491546
+GradientBoosting,Page Rank,Synthetic,9,1000,0.264355865028368
+ErnestModel,Page Rank,Original,12,0,0.47774759144641765
+GradientBoosting,Page Rank,Original,12,0,0.28816614287833553
+ErnestModel,Page Rank,Synthetic,12,1000,0.48445592863860404
+GradientBoosting,Page Rank,Synthetic,12,1000,0.28757945278907726
+ErnestModel,Page Rank,Original,15,0,0.3757362937180918
+GradientBoosting,Page Rank,Original,15,0,0.24499925095909156
+ErnestModel,Page Rank,Synthetic,15,1000,0.381385441581973
+GradientBoosting,Page Rank,Synthetic,15,1000,0.2243041853316682
+ErnestModel,Page Rank,Original,18,0,0.33498726196568623
+GradientBoosting,Page Rank,Original,18,0,0.23090660672889185
+ErnestModel,Page Rank,Synthetic,18,1000,0.3519616029612673
+GradientBoosting,Page Rank,Synthetic,18,1000,0.24492861047579378
+ErnestModel,Page Rank,Original,21,0,0.42607790131941264
+GradientBoosting,Page Rank,Original,21,0,0.15854535521375018
+ErnestModel,Page Rank,Synthetic,21,1000,0.42788054212033083
+GradientBoosting,Page Rank,Synthetic,21,1000,0.21155478195528
+ErnestModel,Page Rank,Original,24,0,0.37914457795419126
+GradientBoosting,Page Rank,Original,24,0,0.22930174007385934
+ErnestModel,Page Rank,Synthetic,24,1000,0.39278144128184217
+GradientBoosting,Page Rank,Synthetic,24,1000,0.247044739115825
+ErnestModel,Page Rank,Original,27,0,0.4185994815332579
+GradientBoosting,Page Rank,Original,27,0,0.16056124339832512
+ErnestModel,Page Rank,Synthetic,27,1000,0.41820768970453304
+GradientBoosting,Page Rank,Synthetic,27,1000,0.2044231111079909
+ErnestModel,Page Rank,Original,30,0,0.37474991065212165
+GradientBoosting,Page Rank,Original,30,0,0.15676858765046733
+ErnestModel,Page Rank,Synthetic,30,1000,0.38867828523117987
+GradientBoosting,Page Rank,Synthetic,30,1000,0.20170221058288396
+ErnestModel,Page Rank,Original,33,0,0.32524219051067976
+GradientBoosting,Page Rank,Original,33,0,0.10065916063779273
+ErnestModel,Page Rank,Synthetic,33,1000,0.33429461100168234
+GradientBoosting,Page Rank,Synthetic,33,1000,0.12221690130990223
+ErnestModel,Page Rank,Original,3,0,0.397147247551192
+GradientBoosting,Page Rank,Original,3,0,0.5048979163401384
+ErnestModel,Page Rank,Synthetic,3,1000,0.4100829509837071
+GradientBoosting,Page Rank,Synthetic,3,1000,0.5196582900666602
+ErnestModel,Page Rank,Original,6,0,0.9589548539847897
+GradientBoosting,Page Rank,Original,6,0,0.35891630868009944
+ErnestModel,Page Rank,Synthetic,6,1000,0.82539278600923
+GradientBoosting,Page Rank,Synthetic,6,1000,0.41154087849655346
+ErnestModel,Page Rank,Original,9,0,0.46406321531373007
+GradientBoosting,Page Rank,Original,9,0,0.39276981166293695
+ErnestModel,Page Rank,Synthetic,9,1000,0.46052983218494464
+GradientBoosting,Page Rank,Synthetic,9,1000,0.4307341849933929
+ErnestModel,Page Rank,Original,12,0,0.5173079873467836
+GradientBoosting,Page Rank,Original,12,0,0.33069039063041744
+ErnestModel,Page Rank,Synthetic,12,1000,0.5116842249946683
+GradientBoosting,Page Rank,Synthetic,12,1000,0.29861846748379967
+ErnestModel,Page Rank,Original,15,0,0.2985445962355887
+GradientBoosting,Page Rank,Original,15,0,0.14090502615942002
+ErnestModel,Page Rank,Synthetic,15,1000,0.29631787096591455
+GradientBoosting,Page Rank,Synthetic,15,1000,0.22947466020269391
+ErnestModel,Page Rank,Original,18,0,0.3296413285265042
+GradientBoosting,Page Rank,Original,18,0,0.17231070753553304
+ErnestModel,Page Rank,Synthetic,18,1000,0.3331686420196481
+GradientBoosting,Page Rank,Synthetic,18,1000,0.1848302603941575
+ErnestModel,Page Rank,Original,21,0,0.42015952054251127
+GradientBoosting,Page Rank,Original,21,0,0.18108651203832432
+ErnestModel,Page Rank,Synthetic,21,1000,0.44030901193464655
+GradientBoosting,Page Rank,Synthetic,21,1000,0.24702083627577606
+ErnestModel,Page Rank,Original,24,0,0.38534333410952837
+GradientBoosting,Page Rank,Original,24,0,0.16006310776395022
+ErnestModel,Page Rank,Synthetic,24,1000,0.3902813014925148
+GradientBoosting,Page Rank,Synthetic,24,1000,0.2034331912450321
+ErnestModel,Page Rank,Original,27,0,0.3039472032819858
+GradientBoosting,Page Rank,Original,27,0,0.13207918622934406
+ErnestModel,Page Rank,Synthetic,27,1000,0.30787118588833884
+GradientBoosting,Page Rank,Synthetic,27,1000,0.15429339445468812
+ErnestModel,Page Rank,Original,30,0,0.3015409584710916
+GradientBoosting,Page Rank,Original,30,0,0.12427378295486648
+ErnestModel,Page Rank,Synthetic,30,1000,0.3016380991808673
+GradientBoosting,Page Rank,Synthetic,30,1000,0.14475245534028502
+ErnestModel,Page Rank,Original,33,0,0.34567123082113893
+GradientBoosting,Page Rank,Original,33,0,0.11575381274141222
+ErnestModel,Page Rank,Synthetic,33,1000,0.3441831028073267
+GradientBoosting,Page Rank,Synthetic,33,1000,0.15766479749399293
+ErnestModel,Page Rank,Original,3,0,0.31535684874557546
+GradientBoosting,Page Rank,Original,3,0,0.2851020498061062
+ErnestModel,Page Rank,Synthetic,3,1000,0.3140027276126424
+GradientBoosting,Page Rank,Synthetic,3,1000,0.27917902766556046
+ErnestModel,Page Rank,Original,6,0,0.499480896720295
+GradientBoosting,Page Rank,Original,6,0,0.22530161503380122
+ErnestModel,Page Rank,Synthetic,6,1000,0.5126055728469638
+GradientBoosting,Page Rank,Synthetic,6,1000,0.21544273334646052
+ErnestModel,Page Rank,Original,9,0,0.4118977932705859
+GradientBoosting,Page Rank,Original,9,0,0.3437803004670761
+ErnestModel,Page Rank,Synthetic,9,1000,0.4130880760972145
+GradientBoosting,Page Rank,Synthetic,9,1000,0.3625775278899334
+ErnestModel,Page Rank,Original,12,0,0.37906311468688053
+GradientBoosting,Page Rank,Original,12,0,0.34828845146537396
+ErnestModel,Page Rank,Synthetic,12,1000,0.3648165985605764
+GradientBoosting,Page Rank,Synthetic,12,1000,0.1904700765261681
+ErnestModel,Page Rank,Original,15,0,0.32732424532071025
+GradientBoosting,Page Rank,Original,15,0,0.19903391552174324
+ErnestModel,Page Rank,Synthetic,15,1000,0.33592929906409486
+GradientBoosting,Page Rank,Synthetic,15,1000,0.19953052705600993
+ErnestModel,Page Rank,Original,18,0,0.35357794144907395
+GradientBoosting,Page Rank,Original,18,0,0.14374977982616655
+ErnestModel,Page Rank,Synthetic,18,1000,0.34911918238654555
+GradientBoosting,Page Rank,Synthetic,18,1000,0.14809088185174046
+ErnestModel,Page Rank,Original,21,0,0.3628152247476951
+GradientBoosting,Page Rank,Original,21,0,0.21961893230619972
+ErnestModel,Page Rank,Synthetic,21,1000,0.36078709663649494
+GradientBoosting,Page Rank,Synthetic,21,1000,0.20528052490148727
+ErnestModel,Page Rank,Original,24,0,0.4137093738649535
+GradientBoosting,Page Rank,Original,24,0,0.18757574596169066
+ErnestModel,Page Rank,Synthetic,24,1000,0.4236726699271055
+GradientBoosting,Page Rank,Synthetic,24,1000,0.23452053263155845
+ErnestModel,Page Rank,Original,27,0,0.3332068794872926
+GradientBoosting,Page Rank,Original,27,0,0.07881680186824158
+ErnestModel,Page Rank,Synthetic,27,1000,0.3348970891586424
+GradientBoosting,Page Rank,Synthetic,27,1000,0.12344210543949469
+ErnestModel,Page Rank,Original,30,0,0.3448704683713408
+GradientBoosting,Page Rank,Original,30,0,0.08778154584070587
+ErnestModel,Page Rank,Synthetic,30,1000,0.34969018690114506
+GradientBoosting,Page Rank,Synthetic,30,1000,0.1540531193083492
+ErnestModel,Page Rank,Original,33,0,0.35372652015017914
+GradientBoosting,Page Rank,Original,33,0,0.13628614651507803
+ErnestModel,Page Rank,Synthetic,33,1000,0.36777237822551334
+GradientBoosting,Page Rank,Synthetic,33,1000,0.15093971215287794
